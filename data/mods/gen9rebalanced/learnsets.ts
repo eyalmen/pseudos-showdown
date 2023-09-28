@@ -5577,7 +5577,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	jigglypuff: {
 		learnset: {
 			moonblast: ['9M'],
-			//knockoff: ['9M'],
+			knockoff: ['9M'],
 			softboiled: ['9M'],
 			allyswitch: ["8M", "7T"],
 			amnesia: ["9M"],
@@ -5641,7 +5641,6 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			icespinner: ["9M"],
 			icywind: ["9M", "8M", "7T", "6T", "5T", "4T"],
 			incinerate: ["6M", "5M"],
-			// knockoff: ["7T", "6T", "5T", "4T"],
 			lastresort: ["7T", "6T", "5T", "4T"],
 			lightscreen: ["9M", "8M", "8V", "7M", "6M", "5M", "4M", "3M"],
 			magicalleaf: ["9M"],
@@ -5791,7 +5790,6 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			gravity: ["7T", "6T", "5T", "4T"],
 			gyroball: ["9L1", "8M", "8L1", "7M", "6M", "5M", "4M"],
 			headbutt: ["8V", "7V", "4T"],
-			// healbell: ["7T", "6T", "5T", "4T"],
 			helpinghand: ["9M", "8M", "8V", "7T", "6T", "5T", "4T"],
 			hiddenpower: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			hyperbeam: ["9M", "8M", "8V", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -5801,7 +5799,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			icespinner: ["9M"],
 			icywind: ["9M", "8M", "7T", "6T", "5T", "4T"],
 			incinerate: ["6M", "5M"],
-			//knockoff: ["9M", "7T", "6T", "5T", "4T"],
+			knockoff: ["9M", "7T", "6T", "5T", "4T"],
 			laserfocus: ["7T"],
 			lastresort: ["7T", "6T", "5T", "4T"],
 			lightscreen: ["9M", "8M", "8V", "7M", "6M", "5M", "4M", "3M"],

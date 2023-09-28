@@ -28,6 +28,14 @@ export const Formats: FormatList = [
 	},
 
 	{
+		name: "[Gen 9] Pseudos",
+		mod: 'gen9',
+		ruleset: ['Standard'],
+		banlist: ['Uber', 'AG', 'Pseudo', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Baton Pass', 'Last Respects', 'Shed Tail'],
+
+	},
+
+	{
 		name: "[Gen 9] OUD",
 
 		mod: 'gen9deluxe',
@@ -173,7 +181,7 @@ export const Formats: FormatList = [
 		],
 
 		mod: 'gen9rebalanced',
-		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Clause', 'Species Clause', 'Sleep Clause Mod'],
+		ruleset: ['Standard NatDex', 'Terastal Clause', 'OHKO Clause', 'Evasion Clause', 'Species Clause', 'Sleep Clause Mod'],
 		banlist: [
 			'ND Uber', 'ND AG', 'Assist', 'Baton Pass', 'Shed Tail', 'Arena Trap', 'Shadow Tag', 'Quick Draw',
 			'King\'s Rock', 'Quick Claw', 'Focus Band'
@@ -572,7 +580,7 @@ export const Formats: FormatList = [
 
 		mod: 'gen9',
 		ruleset: ['Standard'],
-		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Baton Pass', 'Last Respects', 'Shed Tail'],
+		banlist: ['Uber', 'AG', 'Pseudo', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Baton Pass', 'Last Respects', 'Shed Tail'],
 	},
 	{
 		name: "[Gen 9] Ubers",

@@ -2947,22 +2947,22 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	dialga: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
 	dialgaorigin: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
 	palkia: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
 	palkiaorigin: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
@@ -3002,7 +3002,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "UU",
 	},
 	darkrai: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DOU",
 		natDexTier: "Uber",
 	},
@@ -3767,7 +3767,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	volcarona: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUU",
 		natDexTier: "OU",
 	},
@@ -3817,7 +3817,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Uber",
 	},
 	landorus: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DOU",
 		natDexTier: "UU",
 	},
@@ -4814,7 +4814,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Uber",
 	},
 	magearna: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUber",
 		natDexTier: "OU",
 	},
@@ -5349,7 +5349,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	zacian: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
@@ -5364,7 +5364,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Uber",
 	},
 	zamazentacrowned: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
@@ -5381,12 +5381,12 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	urshifu: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
 	urshifurapidstrike: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUber",
 		natDexTier: "UU",
 	},
@@ -5414,7 +5414,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	regieleki: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DOU",
 		natDexTier: "UU",
 	},
@@ -5429,7 +5429,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	spectrier: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "(DUU)",
 		natDexTier: "Uber",
 	},
@@ -5542,7 +5542,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	espathra: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUU",
 		natDexTier: "RU",
 	},
@@ -5568,7 +5568,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	palafin: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DOU",
 		natDexTier: "Uber",
 	},
@@ -5635,7 +5635,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	baxcalibur: {
-		tier: "OU",
+		tier: "Pseudo",
 		doublesTier: "DUU",
 		natDexTier: "UU",
 	},
@@ -5813,7 +5813,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	ironbundle: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DOU",
 		natDexTier: "UU",
 	},
@@ -5828,7 +5828,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	chienpao: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DOU",
 		natDexTier: "OU",
 	},
@@ -5838,7 +5838,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	chiyu: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DOU",
 		natDexTier: "OU",
 	},
@@ -5897,7 +5897,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	annihilape: {
-		tier: "Uber",
+		tier: "Pseudo",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
@@ -5945,7 +5945,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	ogerponhearthflame: {
-		tier: "OU",
+		tier: "Pseudo",
 		doublesTier: "DOU",
 		natDexTier: "OU",
 	},
