@@ -49567,6 +49567,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gabite: {
 		learnset: {
+			glaiverush: ["9M"],
 			aerialace: ["9M", "7M", "6M", "5M", "4M"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			bite: ["9L27", "8L27"],
@@ -49649,6 +49650,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	garchomp: {
 		learnset: {
+			glaiverush: ["9M"],
 			aerialace: ["9M", "7M", "6M", "5M", "4M"],
 			aquatail: ["7T", "6T", "5T", "4T"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
@@ -72357,6 +72359,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	decidueyehisui: {
 		learnset: {
+			knockoff: ["9M"],
 			spikes: ["9M"],
 			machpunch: ["9M"],
 			tripleaxel: ["9M"],

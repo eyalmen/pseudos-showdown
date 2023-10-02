@@ -3898,15 +3898,14 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	greninjabond: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-		doublesTier: "Illegal",
-		natDexTier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	greninjaash: {
-		tier: "Illegal",
+		tier: "OU",
 		doublesTier: "DOU",
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	// greninjaash: {
 	// 	isNonstandard: "Past",
