@@ -570,7 +570,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6033,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	blastoisinitey: {
 		name: "Blastoisinite-Y",
@@ -584,7 +584,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6005,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	blazikenite: {
 		name: "Blazikenite",
@@ -832,7 +832,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6004,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	chartiberry: {
 		name: "Charti Berry",
@@ -2241,7 +2241,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6032,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	gengaritey: {
 		name: "Gengarite-Y",
@@ -2255,7 +2255,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6003,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	ghostgem: {
 		name: "Ghost Gem",
@@ -7015,7 +7015,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6033,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	venusauritey: {
 		name: "Venusaurite-Y",
@@ -7029,7 +7029,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6006,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	wacanberry: {
 		name: "Wacan Berry",
@@ -7665,7 +7665,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6002,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	machampite: {
 		name: "Machampite",
@@ -7679,7 +7679,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6001,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	kinglerite: {
 		name: "Kinglerite",
@@ -7693,7 +7693,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6000,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	laprasite: {
 		name: "Laprasite",
@@ -7707,7 +7707,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6007,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	snorlaxite: {
 		name: "Snorlaxite",
@@ -7721,7 +7721,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6008,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	rayquazite: {
 		name: "Rayquazite",
@@ -7735,7 +7735,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6009,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	garbodorite: {
 		name: "Garbodorite",
@@ -7749,7 +7749,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6010,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	melmetalite: {
 		name: "Melmetalite",
@@ -7763,7 +7763,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6011,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	rillaboomite: {
 		name: "Rillaboomite",
@@ -7777,7 +7777,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6012,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	cinderite: {
 		name: "Cinderite",
@@ -7791,7 +7791,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6013,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	inteleonite: {
 		name: "Inteleonite",
@@ -7805,7 +7805,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6014,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	corvite: {
 		name: "Corvite",
@@ -7819,7 +7819,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6015,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	orbeetite: {
 		name: "Orbeetite",
@@ -7833,7 +7833,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6016,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	drednite: {
 		name: "Drednite",
@@ -7847,7 +7847,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6017,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	coalossite: {
 		name: "Coalossite",
@@ -7861,7 +7861,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6018,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	flappite: {
 		name: "Flappite",
@@ -7875,7 +7875,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6019,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	appletite: {
 		name: "Appletite",
@@ -7889,7 +7889,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6020,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	sandacondite: {
 		name: "Sandacondite",
@@ -7903,7 +7903,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6021,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	toxtricitite: {
 		name: "Toxtricitite",
@@ -7917,7 +7917,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6022,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	toxtricititelowkey: {
 		name: "Toxtricitite-Low-Key",
@@ -7931,7 +7931,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6023,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	centiskite: {
 		name: "Centiskite",
@@ -7945,7 +7945,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6024,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	hatterite: {
 		name: "Hatterite",
@@ -7959,7 +7959,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6025,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	grimmite: {
 		name: "Grimmite",
@@ -7973,7 +7973,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6026,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	alcremite: {
 		name: "Alcremite",
@@ -7987,7 +7987,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6027,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	copperajite: {
 		name: "Copperajite",
@@ -8001,7 +8001,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6028,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	urshifite: {
 		name: "Urshifite",
@@ -8015,7 +8015,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6030,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	urshifiterapidstrike: {
 		name: "Urshifite-Rapid-Strike",
@@ -8029,7 +8029,7 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		num: 6031,
 		gen: 6,
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	cornerstonemask: {
 		name: "Cornerstone Mask",

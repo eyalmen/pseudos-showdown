@@ -84276,7 +84276,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 		learnset: {
 			pursuit: ["9M"],
 			toxic: ["9M"],
-			// knockoff: ["9M"],
+			knockoff: ["9M"],
 			acrobatics: ["9M", "8M"],
 			aerialace: ["9M"],
 			assurance: ["8M"],
