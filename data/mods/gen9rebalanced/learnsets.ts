@@ -28463,6 +28463,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	qwilfish: {
 		learnset: {
+			flipturn: ["9M"],
 			painsplit: ["9M"],
 			explosion: ["9M"],
 			rapidspin: ["9M", ],
