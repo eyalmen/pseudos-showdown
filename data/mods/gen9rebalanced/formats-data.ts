@@ -1725,18 +1725,15 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	raikou: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	entei: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	suicune: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	larvitar: {
@@ -1756,13 +1753,11 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "UU",
 	},
 	lugia: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "Uber",
 		natDexTier: "Uber",
 	},
 	hooh: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "Uber",
 		natDexTier: "Uber",
 	},
 	celebi: {
@@ -2474,8 +2469,8 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	latias: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "RUBL",
 		natDexTier: "RU",
 	},
 	latiasmega: {
@@ -2484,8 +2479,8 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	latios: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "UU",
 		natDexTier: "RU",
 	},
 	latiosmega: {
@@ -3746,18 +3741,18 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	cobalion: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	terrakion: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "UU",
 		natDexTier: "RU",
 	},
 	virizion: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "PU",
 		natDexTier: "RU",
 	},
 	tornadus: {
@@ -3781,13 +3776,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	reshiram: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "Uber",
 		natDexTier: "Uber",
 	},
 	zekrom: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "Uber",
 		natDexTier: "Uber",
 	},
 	landorus: {
@@ -3801,27 +3796,27 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	kyurem: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "OU",
 		natDexTier: "RU",
 	},
 	kyuremblack: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "Uber",
 		natDexTier: "Uber",
 	},
 	kyuremwhite: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "Uber",
 		natDexTier: "Uber",
 	},
 	keldeo: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "OU",
 		natDexTier: "RU",
 	},
 	keldeoresolute: {
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 	},
 	meloetta: {
 //		isNonstandard: "Unobtainable",
