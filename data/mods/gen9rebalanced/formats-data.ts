@@ -2767,7 +2767,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	garchomp: {
-		tier: "UU",
+		tier: "UUBL",
 		doublesTier: "DOU",
 		natDexTier: "OU",
 	},
@@ -3747,7 +3747,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	terrakion: {
 		//isNonstandard: "Past",
-		tier: "UU",
+		tier: "UUBL",
 		natDexTier: "RU",
 	},
 	virizion: {
@@ -5774,7 +5774,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	fluttermane: {
-		tier: "UU",
+		tier: "UUBL",
 		doublesTier: "DUber",
 		natDexTier: "OU",
 	},
