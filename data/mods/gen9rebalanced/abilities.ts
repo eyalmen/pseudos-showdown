@@ -5343,4 +5343,61 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		rating: 4.5,
 		num: 305,
 	},
+	poisonpuppeteer: {
+		onAnyAfterSetStatus(status, target, source, effect) {
+			if (source !== this.effectState.target || target === source || effect.effectType !== 'Move') return;
+			if (status.id === 'psn' || status.id === 'tox') {
+				target.addVolatile('confusion');
+			}
+		},
+		name: "Poison Puppeteer",
+		rating: 3,
+		num: 310,
+	},
+	teraformzero: {
+		onAfterTerastallization(pokemon) {
+			if (this.field.weather || this.field.terrain) {
+				this.add('-ability', pokemon, 'Teraform Zero');
+				this.field.clearWeather();
+				this.field.clearTerrain();
+			}
+		},
+		name: "Teraform Zero",
+		rating: 3,
+		num: 309,
+	},
+	terashell: {
+		// TODO figure out if this only works on Terapagos
+		onEffectiveness(typeMod, target, type, move) {
+			if (!target || move.category === 'Status') return;
+			if (!target.runImmunity(move.type)) return; // immunity has priority
+			if (target.abilityState.resisted) return -1; // all hits of multi-hit move should be not very effective
+			if (target.hp < target.maxhp) return;
+
+			this.add('-activate', target, 'ability: Tera Shell');
+			target.abilityState.resisted = true;
+			return -1;
+		},
+		onAfterMove(target, source, move) {
+			if (target.abilityState.resisted) {
+				delete target.abilityState.resisted;
+			}
+		},
+		isBreakable: true,
+		name: "Tera Shell",
+		rating: 3.5,
+		num: 308,
+	},
+	terashift: {
+		onPreStart(pokemon) {
+			if (pokemon.baseSpecies.baseSpecies !== 'Terapagos' || pokemon.transformed) return;
+			if (pokemon.species.forme !== 'Terastal') {
+				pokemon.formeChange('Terapagos-Terastal', this.effect, true);
+			}
+		},
+		isPermanent: true,
+		name: "Tera Shift",
+		rating: 3,
+		num: 307,
+	},
 };
