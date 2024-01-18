@@ -3144,7 +3144,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	cottonee: {
-		tier: "LC",
+		tier: "DNU",
 	},
 	whimsicott: {
 		tier: "RU",
@@ -4256,7 +4256,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	dewpider: {
-		tier: "LC",
+		tier: "DNU",
 	},
 	araquanid: {
 		tier: "UU",
@@ -4864,7 +4864,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	arrokuda: {
-		tier: "LC",
+		tier: "DNU",
 	},
 	barraskewda: {
 		tier: "RU",
