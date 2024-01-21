@@ -55,19 +55,20 @@ export const Formats: FormatList = [
 	{
 		name: "[Gen 9] Do Not Use",
 
-		mod: 'gen9deluxe',
-		ruleset: ['DNU Clause', 'Standard', 'Evasion Clause', 'Z-Move Clause', 'Terastal Clause'],
+		mod: 'gen9dnu',
+		ruleset: ['Standard NatDex', 'Evasion Clause', 'Z-Move Clause', 'Terastal Clause'],
 		banlist: ["AG", "Uber", "OUD", "OU", "UUBL", "UU", "RUBL", "RU", "NUBL", "NU",
-		"PUBL", "PU", "NFE", "LC", "Moody", "Huge Power", "Baton Pass", "Smoliv", "Ledyba"]
+		"PUBL", "PU", "NFE", "LC", 
+					 "Arena Trap", "Shadow Tag", "Moody", "Huge Power", "Baton Pass"]
 	},
 
 
-	{
-		name: "[Gen 9] Do Not Use Suspect",
-		mod: 'gen9deluxe',
-		ruleset: ['[Gen 9] Do Not Use'],
-		unbanlist: ['Slugma'],
-	},
+	//{
+	//	name: "[Gen 9] Do Not Use Suspect",
+	//	mod: 'gen9deluxe',
+	//	ruleset: ['[Gen 9] Do Not Use'],
+	//	unbanlist: ['Slugma'],
+	//},
 
 	{
 		name: "[Gen 9] CU",
@@ -90,20 +91,20 @@ export const Formats: FormatList = [
 
 
 	// DNU OMS
-	{
-		section: "SV Pseudos OMs"
-	},
+	//{
+//		section: "SV Pseudos OMs"
+//	},
 
-	{
-		name: "[Gen 9] DNUseless Moves Only",
+	//{
+	//	name: "[Gen 9] DNUseless Moves Only",
 
-		mod: 'gen9deluxe',
-		ruleset: ['DNU Clause', 'Standard', 'Evasion Clause', 'Z-Move Clause', 'Terastal Clause', 'Useless Moves Mod'],
-		banlist: ["AG", "Uber", "OUD", "OU", "UUBL", "UU", "RUBL", "RU", "NUBL", "NU",
-		"PUBL", "PU", "NFE", "LC", "Moody", "Huge Power", "Baton Pass"]
-	},
+//		mod: 'gen9deluxe',
+	//	ruleset: ['DNU Clause', 'Standard', 'Evasion Clause', 'Z-Move Clause', 'Terastal Clause', 'Useless Moves Mod'],
+		//banlist: ["AG", "Uber", "OUD", "OU", "UUBL", "UU", "RUBL", "RU", "NUBL", "NU",
+		//"PUBL", "PU", "NFE", "LC", "Moody", "Huge Power", "Baton Pass"]
+	//},
 
-	{
+	/*{
 		name: "[Gen 9] DNU CAP",
 
 		mod: "gen9dnucap",
@@ -157,7 +158,7 @@ export const Formats: FormatList = [
 		mod: 'gen9deluxe',
 		team: 'random',
 		ruleset: ['DNU Randbats', 'Obtainable', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod'],
-	},
+	},*/
 
 	// SV OU Rebalanced
 	///////////////////////////////////////////////////////////////////
