@@ -4754,7 +4754,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			sing: ["8L4", "7L7", "7V", "6L7", "5L7", "4L7", "3L8"],
 			sleeptalk: ["8M", "7M", "7V", "6M", "5T", "5D", "4M", "3T"],
 			snore: ["8M", "7T", "7V", "6T", "5T", "4T", "3T"],
-			softboiled: ["3T"],
+			//softboiled: ["3T"],
 			solarbeam: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			splash: ["8L1", "7E", "7V", "6E", "5E", "4E", "3E"],
 			storedpower: ["8M", "7E", "6E", "5E"],
