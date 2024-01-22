@@ -4675,6 +4675,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cleffa: {
 		learnset: {
+			softboiled: ["9M"],
 			afteryou: ["7T", "6T", "5T"],
 			amnesia: ["8M", "7E", "7V", "6E", "5E", "4E", "3E"],
 			aromatherapy: ["8E", "7E", "6E", "5E", "5D", "4E"],
@@ -5052,7 +5053,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			sleeptalk: ["8M", "7M", "7V", "6M", "5T", "4M", "3T"],
 			snatch: ["7T", "6T", "5T", "4M", "3M"],
 			snore: ["8M", "7T", "7V", "6T", "5T", "4T", "3T"],
-			softboiled: ["3T"],
+			softboiled: ["9M", "3T"],
 			solarbeam: ["8M", "8V", "7M", "7V", "6M", "5M", "4M", "3M"],
 			splash: ["8L1"],
 			spotlight: ["7L1"],
