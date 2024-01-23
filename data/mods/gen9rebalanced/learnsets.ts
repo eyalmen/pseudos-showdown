@@ -94578,7 +94578,7 @@ ragingbolt: {
 		outrage: ["9M"],
 		protect: ["9M"],
 		rest: ["9M"],
-		risingvoltage: ["9L63"],
+		//risingvoltage: ["9L63"],
 		roar: ["9M"],
 		scaryface: ["9M"],
 		shockwave: ["9L1"],
