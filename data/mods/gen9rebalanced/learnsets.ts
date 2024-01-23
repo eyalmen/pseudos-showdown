@@ -59224,7 +59224,7 @@ basculegionf: {
 		hyperbeam: ["9M"],
 		icebeam: ["9M"],
 		icefang: ["9M"],
-		icywind: ["9M", "8M"],
+		icywind: ["9M"],
 		//lastrespects: ["9E"],
 		liquidation: ["9M"],
 		muddywater: ["9M"],
