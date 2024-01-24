@@ -18858,7 +18858,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		types: ["Poison", "Ghost"],
 		gender: "N",
 		baseStats: {hp: 88, atk: 88, def: 160, spa: 88, spd: 88, spe: 88},
-		abilities: {0: "Poison Puppeteer"},
+		abilities: {0: "Poison Puppeteer", H: "Prankster"},
 		heightm: 0.3,
 		weightkg: 0.3,
 		color: "Purple",

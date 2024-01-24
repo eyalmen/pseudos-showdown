@@ -94786,6 +94786,9 @@ terapagos: {
 },
 pecharunt: {
 	learnset: {
+		willowisp: ["9M"],
+		focusblast: ["9M"],
+		knockoff: ["9M"],
 		acidspray: ["9M"],
 		astonish: ["9L1"],
 		curse: ["9M"],
