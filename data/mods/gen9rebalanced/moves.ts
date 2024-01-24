@@ -16271,7 +16271,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	secretsword: {
 		num: 548,
 		accuracy: 100,
-		basePower: 85,
+		basePower: 80,
 		category: "Special",
 		//isNonstandard: "Past",
 		overrideDefensiveStat: 'def',
