@@ -1254,7 +1254,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	zapdosgalar: {
 //		isNonstandard: "Unobtainable",
-		tier: "OU",
+		tier: "UU",
 		natDexTier: "UU",
 	},
 	moltres: {
@@ -1599,7 +1599,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 	},
 	weavile: {
-		tier: "UUBL",
+		tier: "UU",
 		doublesTier: "DUU",
 		natDexTier: "UU",
 	},
