@@ -30809,7 +30809,6 @@ ursalunabloodmoon: {
 		thunderpunch: ["9M"],
 		trailblaze: ["9M"],
 		uproar: ["9M"],
-		vacuumwave: ["9M"],
 		yawn: ["9E"],
 	},
 	eventData: [
