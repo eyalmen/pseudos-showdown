@@ -682,7 +682,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	slowking: {
-		tier: "UU",
+		tier: "RU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1092,7 +1092,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	taurospaldeaaqua: {
-		tier: "OU",
+		tier: "UU",
 		doublesTier: "DUU",
 		natDexTier: "RU",
 	},
@@ -1681,7 +1681,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	skarmory: {
-		tier: "UU",
+		tier: "OU",
 		natDexTier: "UU",
 	},
 	houndour: {
@@ -1912,7 +1912,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	pelipper: {
-		tier: "RUBL",
+		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU",
 	},
@@ -2929,7 +2929,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	manaphy: {
-		tier: "OU",
+		tier: "UUBL",
 		natDexTier: "RU",
 	},
 	darkrai: {
@@ -4873,7 +4873,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	cinderace: {
-		tier: "UUBL",
+		tier: "OU",
 		doublesTier: "DUU",
 		natDexTier: "UU",
 	},
@@ -5097,7 +5097,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	barraskewda: {
-		tier: "RU",
+		tier: "OU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -5394,11 +5394,11 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	zarude: {
 //		isNonstandard: "Unobtainable",
-		tier: "RUBL",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	zarudedada: {
-		tier: "RUBL",
+		tier: "RU",
 		natDexTier: "RU",
 //		isNonstandard: "Unobtainable",
 	},
@@ -5874,7 +5874,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	ceruledge: {
-		tier: "UU",
+		tier: "UUBL",
 		doublesTier: "DUU",
 		natDexTier: "RU",
 	},
@@ -5951,7 +5951,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	hydrapple: {
-		tier: "UU",
+		tier: "RU",
 		doublesTier: "DOU",
 		natDexTier: "OU",
 	},
@@ -5967,6 +5967,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	terapagos: {
 		tier: "OU",
+		doublesTier: "DUber",
+		natDexTier: "OU",
+	},
+	terapagosterastal: {
+		tier: "OU",
+		doublesTier: "DUber",
+		natDexTier: "OU",
+	},
+	terapagosstellar: {
+		tier: "AG",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},

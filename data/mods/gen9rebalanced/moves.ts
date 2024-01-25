@@ -21839,20 +21839,10 @@ export const Moves: {[moveid: string]: MoveData} = {
 		pp: 5,
 		priority: 0,
 		flags: {protect: 1, mirror: 1, noassist: 1, failcopycat: 1, failmimic: 1},
-		onModifyType(move, pokemon) {
-			if (pokemon.species.name === 'Terapagos-Stellar') {
-				move.type = 'Stellar';
-			}
-		},
-		onModifyMove(move, pokemon) {
-			if (pokemon.species.name === 'Terapagos-Stellar') {
-				move.target = 'allAdjacentFoes';
-			}
-		},
 		noSketch: true,
 		secondary: null,
 		target: "normal",
-		type: "Normal",
+		type: "Stellar",
 	},
 	hardpress: {
 		num: 912,
