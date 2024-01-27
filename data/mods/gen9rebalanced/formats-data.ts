@@ -2556,7 +2556,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	infernape: {
-		tier: "UU",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	piplup: {
