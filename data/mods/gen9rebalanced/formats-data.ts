@@ -2528,7 +2528,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Uber",
 	},
 	deoxysdefense: {
-		tier: "RU",
+		tier: "RUBL",
 		natDexTier: "RU",
 	},
 	deoxysspeed: {
@@ -4295,7 +4295,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	primarina: {
-		tier: "RU",
+		tier: "RUBL",
 		natDexTier: "RU",
 	},
 	pikipek: {
