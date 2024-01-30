@@ -1909,7 +1909,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "UU",
 	},
 	wingull: {
-		tier: "RUBL",
+		tier: "LC",
 	},
 	pelipper: {
 		tier: "OU",
@@ -3761,7 +3761,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	thundurus: {
 //		isNonstandard: "Unobtainable",
-		tier: "RUBL",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	thundurustherian: {
