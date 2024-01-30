@@ -547,7 +547,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	politoed: {
-		tier: "RU",
+		tier: "RUBL",
 		natDexTier: "RU",
 	},
 	abra: {
