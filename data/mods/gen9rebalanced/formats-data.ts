@@ -1295,7 +1295,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	mew: {
 //		isNonstandard: "Unobtainable",
-		tier: "RU",
+		tier: "RUBL",
 		natDexTier: "UU",
 	},
 	chikorita: {
