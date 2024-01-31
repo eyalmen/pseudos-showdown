@@ -90718,7 +90718,6 @@ pawmo: {
 },
 pawmot: {
 	learnset: {
-		plasmafists: ["9M"],
 		drainpunch: ["9M"],
 		agility: ["9M", "9L54"],
 		armthrust: ["9L25"],
