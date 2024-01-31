@@ -245,7 +245,7 @@ export const Formats: FormatList = [
 
 		mod: 'gen9rebalanced',
 		ruleset: ['[Gen 9] Rebalanced NU'],
-		banlist: ['NU', 'PUBL', 'Drizzle', 'Revival Blessing'],
+		banlist: ['NU', 'PUBL', 'Revival Blessing'],
 	},
 
 	{
