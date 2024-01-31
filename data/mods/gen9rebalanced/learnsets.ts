@@ -27339,7 +27339,7 @@ aipom: {
 		swagger: ["7M", "7V", "6M", "5M", "4M", "3T"],
 		swift: ["9M", "9L22", "7L22", "7V", "6L22", "5L22", "4T", "4L22", "3T", "3L38"],
 		switcheroo: ["9E", "7E", "6E", "5E"],
-		tailslap: ["7E"],
+		tailslap: ["9M", "7E"],
 		tailwhip: ["9L1", "7L1", "7V", "6L1", "5L1", "4L1", "3L1", "3S0"],
 		takedown: ["9M"],
 		taunt: ["9M", "7M", "6M", "5M", "4M", "3M"],
