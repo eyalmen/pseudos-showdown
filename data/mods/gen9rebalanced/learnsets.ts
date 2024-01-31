@@ -22356,6 +22356,7 @@ articuno: {
 articunogalar: {
 	learnset: {
 		toxic: ["9M"],
+		defog: ["9M"],
 		earthpower: ["9M", ],
 		weatherball: ["9M", ],
 		agility: ["9M", "9L20", "8M", "8L20"],
