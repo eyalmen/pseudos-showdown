@@ -21169,7 +21169,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	wickedblow: {
 		num: 817,
 		accuracy: 100,
-		basePower: 75,
+		basePower: 70,
 		category: "Physical",
 		name: "Wicked Blow",
 		pp: 5,

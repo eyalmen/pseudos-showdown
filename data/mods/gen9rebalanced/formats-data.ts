@@ -5366,7 +5366,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	urshifu: {
 //		isNonstandard: "Unobtainable",
-		tier: "Uber",
+		tier: "OU",
 		natDexTier: "Uber",
 	},
 	urshifumega: {
