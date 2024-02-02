@@ -16810,6 +16810,7 @@ happiny: {
 		stealthrock: ["9M"],
 		calmmind: ["9M"],
 		wish: ["9M"],
+		teleport: ["9M"],
 		aromatherapy: ["8E", "7E", "6E", "5E", "4E"],
 		attract: ["8M", "7M", "6M", "5M", "4M"],
 		captivate: ["4M"],
