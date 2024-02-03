@@ -16888,6 +16888,7 @@ happiny: {
 },
 chansey: {
 	learnset: {
+		teleport: ["9M"],
 		allyswitch: ["8M", "7T"],
 		aromatherapy: ["8E", "7E", "6E", "5E", "4E", "3E"],
 		attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -17013,7 +17014,7 @@ chansey: {
 		tailwhip: ["9L4", "8L4", "8V", "7L5", "7V", "6L5", "5L5", "4L5", "3L5", "3S1"],
 		takedown: ["9M", "9L24", "8L24", "8V", "7L27", "7V", "6L27", "5L27"],
 		telekinesis: ["7T"],
-		teleport: ["8V", "7V"],
+		//teleport: ["8V", "7V"],
 		terablast: ["9M"],
 		thief: ["9M"],
 		thunder: ["9M", "8M", "8V", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -17044,6 +17045,7 @@ chansey: {
 },
 blissey: {
 	learnset: {
+		teleport: ["9M"],
 		alluringvoice: ["9M"],
 		allyswitch: ["8M", "7T"],
 		attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
