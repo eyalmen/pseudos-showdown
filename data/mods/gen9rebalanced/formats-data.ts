@@ -2197,7 +2197,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	flygon: {
-		tier: "NU",
+		tier: "NUBL",
 		natDexTier: "RU",
 	},
 	cacnea: {
