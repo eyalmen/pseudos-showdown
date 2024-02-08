@@ -51448,6 +51448,7 @@ spiritomb: {
 },
 gible: {
 	learnset: {
+		rockblast: ["9M"],
 		crunch: ["9M"],
 		spikes: ["9M"],
 		aerialace: ["7M", "6M", "5M", "4M"],
@@ -51618,6 +51619,7 @@ gabite: {
 garchomp: {
 	learnset: {
 		defog: ["9M"],
+		rockblast: ["9M"],
 		extremespeed: ["9M"],
 		glaiverush: ["9M"],
 		aerialace: ["9M", "7M", "6M", "5M", "4M"],
