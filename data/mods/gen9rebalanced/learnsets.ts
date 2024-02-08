@@ -51618,6 +51618,7 @@ gabite: {
 garchomp: {
 	learnset: {
 		defog: ["9M"],
+		extremespeed: ["9M"],
 		glaiverush: ["9M"],
 		aerialace: ["9M", "7M", "6M", "5M", "4M"],
 		aquatail: ["7T", "6T", "5T", "4T"],
