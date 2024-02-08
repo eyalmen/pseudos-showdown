@@ -4356,9 +4356,8 @@ export const Moves: {[moveid: string]: MoveData} = {
 	dualchop: {
 		num: 530,
 		accuracy: 90,
-		basePower: 40,
+		basePower: 50,
 		category: "Physical",
-		isNonstandard: "Past",
 		name: "Dual Chop",
 		pp: 15,
 		priority: 0,
