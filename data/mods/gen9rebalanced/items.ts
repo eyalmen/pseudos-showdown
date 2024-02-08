@@ -5453,19 +5453,22 @@ export const Items: {[itemid: string]: ItemData} = {
 		fling: {
 			basePower: 30,
 		},
-		onBasePowerPriority: 15,
-		onBasePower(basePower, user, target, move) {
-			if (
-				move && (user.baseSpecies.num === 380 || user.baseSpecies.num === 381) &&
-				(move.type === 'Psychic' || move.type === 'Dragon')
-			) {
-				return this.chainModify([4915, 4096]);
+		onBasePower() {},
+		onModifySpAPriority: 1,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 380 || pokemon.baseSpecies.num === 381) {
+				return this.chainModify(1.5);
+			}
+		},
+		onModifySpDPriority: 2,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 380 || pokemon.baseSpecies.num === 381) {
+				return this.chainModify(1.5);
 			}
 		},
 		itemUser: ["Latios", "Latias"],
 		num: 225,
 		gen: 3,
-		isNonstandard: "Past",
 	},
 	spelltag: {
 		name: "Spell Tag",

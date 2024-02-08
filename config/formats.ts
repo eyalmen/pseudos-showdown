@@ -173,7 +173,7 @@ export const Formats: FormatList = [
 			mod: 'gen9rebalanced',
 			ruleset: ['Standard', 'Terastal Clause'],
 			banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Baton Pass',
-					'Quick Draw', 'Quick Claw', 'Focus Band', 'Shed Tail', 'Light Clay', 'Dark Void'],
+					'Quick Draw', 'Quick Claw', 'Focus Band', 'Shed Tail', 'Light Clay', 'Dark Void', 'Soul Dew'],
 	},
 	{
 		name: "[Gen 9] Rebalanced National Dex",
@@ -185,7 +185,7 @@ export const Formats: FormatList = [
 		ruleset: ['Standard NatDex', 'Terastal Clause', 'OHKO Clause', 'Evasion Clause', 'Species Clause', 'Sleep Clause Mod'],
 		banlist: [
 			'ND Uber', 'ND AG', 'Assist', 'Baton Pass', 'Shed Tail', 'Arena Trap', 'Shadow Tag', 'Quick Draw',
-			'King\'s Rock', 'Quick Claw', 'Focus Band'
+			'King\'s Rock', 'Quick Claw', 'Focus Band', 'Soul Dew'
 		],
 	},
 	{

@@ -7,6 +7,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		natDexTier: "RU",
 	},
+	greendon: {
+		tier: "Uber",
+		natDexTier: "Uber",
+	},
 	ironcrown: {
 		tier: "RU",
 		natDexTier: "OU",

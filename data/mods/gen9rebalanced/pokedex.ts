@@ -1,4 +1,16 @@
 export const Pokedex: {[speciesid: string]: SpeciesData} = {
+	greendon: {
+		num: 7777,
+		name: "Greendon",
+		types: ["Grass", "Rock"],
+		gender: "M",
+		baseStats: {hp: 100, atk: 150, def: 140, spa: 80, spd: 100, spe: 100},
+		abilities: {0: "Sand Stream", 1: "Solid Rock", H: "Grassy Surge"},
+		heightm: 3.9,
+		weightkg: 960,
+		color: "Green",
+		eggGroups: [ "Undiscovered" ],
+	},
 	bulbasaur: {
 		num: 1,
 		name: "Bulbasaur",
