@@ -81748,7 +81748,7 @@ necrozma: {
 		telekinesis: ["7T"],
 		terablast: ["9M"],
 		thief: ["9M", "8M", "7M"],
-		thunderwave: ["8M", "7M"],
+		thunderwave: ["9M", "8M", "7M"],
 		toxic: ["9M", "7M"],
 		trickroom: ["9M", "8M", "7M"],
 		wringout: ["7L67", "7S0"],
