@@ -53912,6 +53912,7 @@ regigigas: {
 },
 giratina: {
 	learnset: {
+		roost: ["9M"],
 		aerialace: ["7M", "6M", "5M", "4M"],
 		aircutter: ["4T"],
 		ancientpower: ["9L14", "8L14", "8S8", "7L10", "6L10", "5L10", "4T", "4L10", "4S1"],

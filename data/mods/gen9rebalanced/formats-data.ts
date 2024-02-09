@@ -4724,13 +4724,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	solgaleo: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "OU",
 		natDexTier: "Uber",
 	},
 	lunala: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		//isNonstandard: "Past",
+		tier: "OU",
 		natDexTier: "Uber",
 	},
 	nihilego: {
