@@ -46986,6 +46986,7 @@ groudon: {
 },
 rayquaza: {
 	learnset: {
+		dualchop: ["9M"],
 		aerialace: ["9M", "7M", "6M", "5M", "4M", "3M"],
 		airslash: ["9M", "9L1", "8M", "8L1", "7L30", "6L30", "5L35", "4L35", "4S1"],
 		ancientpower: ["9L1", "8L1", "7L15", "6L15", "5L45", "5S2", "4T", "4L15", "4S1", "3L15"],
@@ -47088,7 +47089,7 @@ rayquaza: {
 		twister: ["9L1", "8L1", "8S9", "7L1", "6L1", "6S5", "5L1", "4T", "4L1", "3L1"],
 		uproar: ["8M", "7T", "6T", "5T", "4T"],
 		uturn: ["9M"],
-		vcreate: ["5S3"],
+		vcreate: ["9M", "5S3"],
 		waterfall: ["9M", "8M", "7M", "6M", "5M", "4M", "3M"],
 		waterpulse: ["7T", "6T", "4M", "3M"],
 		whirlpool: ["9M", "8M", "4M"],
@@ -53469,7 +53470,7 @@ azelf: {
 },
 dialga: {
 	learnset: {
-		roost: ["9M"],
+		recover: ["9M"],
 		aerialace: ["7M", "6M", "5M", "4M"],
 		ancientpower: ["9L16", "8L16", "8S11", "7L10", "6L10", "5L10", "4T", "4L10", "4S0"],
 		aurasphere: ["9M", "9L48", "8M", "8L48", "7L37", "7S7", "7S8", "7S9", "7S10", "6L37", "6S5", "5L37", "5S4", "4L37"],
@@ -53586,7 +53587,9 @@ dialgaorigin: {
 },
 palkia: {
 	learnset: {
-		roost: ["9M"],
+		flipturn: ["9M"],
+		recover: ["9M"],
+		scald: ["9M"],
 		aerialace: ["9M", "7M", "6M", "5M", "4M"],
 		ancientpower: ["9L16", "8L16", "8S11", "7L10", "6L10", "5L10", "4T", "4L10", "4S0"],
 		aquaring: ["9L32", "8L32", "7L24"],
@@ -67453,6 +67456,11 @@ thundurustherian: {
 },
 reshiram: {
 	learnset: {
+		dragonenergy: ["9M"],
+		calmmind: ["9M"],
+		magmastorm: ["9M"],
+		burningbulwark: ["9M"],
+		tailglow: ["9M"],
 		ancientpower: ["9L1", "8L1", "7L15", "6L15", "5L15"],
 		blueflare: ["9L88", "8L88", "7L100", "7S6", "6L100", "5L100", "5S2"],
 		bodypress: ["9M", "8M"],
@@ -67560,6 +67568,7 @@ reshiram: {
 },
 zekrom: {
 	learnset: {
+		thundercage: ["9M"],
 		ancientpower: ["9L1", "8L1", "7L15", "6L15", "5L15"],
 		bodypress: ["9M", "8M"],
 		bodyslam: ["9M"],
@@ -87691,6 +87700,7 @@ spectrier: {
 },
 calyrex: {
 	learnset: {
+		iceshard: ["9M"],
 		toxic: ["9M"],
 		agility: ["9M", "8M"],
 		allyswitch: ["8M"],

@@ -15486,10 +15486,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		name: "Roar of Time",
 		pp: 5,
 		priority: 0,
-		flags: {recharge: 1, protect: 1, mirror: 1},
-		self: {
-			volatileStatus: 'mustrecharge',
-		},
+		flags: {protect: 1, mirror: 1, cantusetwice: 1},
 		secondary: null,
 		target: "normal",
 		type: "Dragon",
@@ -17778,7 +17775,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	spacialrend: {
 		num: 460,
 		accuracy: 95,
-		basePower: 100,
+		basePower: 120,
 		category: "Special",
 		name: "Spacial Rend",
 		pp: 5,
