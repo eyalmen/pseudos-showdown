@@ -4725,12 +4725,12 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	solgaleo: {
 		//isNonstandard: "Past",
-		tier: "OU",
+		tier: "Uber",
 		natDexTier: "Uber",
 	},
 	lunala: {
 		//isNonstandard: "Past",
-		tier: "OU",
+		tier: "Uber",
 		natDexTier: "Uber",
 	},
 	nihilego: {
