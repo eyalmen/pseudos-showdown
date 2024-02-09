@@ -53469,6 +53469,7 @@ azelf: {
 },
 dialga: {
 	learnset: {
+		roost: ["9M"],
 		aerialace: ["7M", "6M", "5M", "4M"],
 		ancientpower: ["9L16", "8L16", "8S11", "7L10", "6L10", "5L10", "4T", "4L10", "4S0"],
 		aurasphere: ["9M", "9L48", "8M", "8L48", "7L37", "7S7", "7S8", "7S9", "7S10", "6L37", "6S5", "5L37", "5S4", "4L37"],
@@ -53585,6 +53586,7 @@ dialgaorigin: {
 },
 palkia: {
 	learnset: {
+		roost: ["9M"],
 		aerialace: ["9M", "7M", "6M", "5M", "4M"],
 		ancientpower: ["9L16", "8L16", "8S11", "7L10", "6L10", "5L10", "4T", "4L10", "4S0"],
 		aquaring: ["9L32", "8L32", "7L24"],

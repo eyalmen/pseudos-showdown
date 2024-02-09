@@ -191,7 +191,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 95,
 		basePower: 100,
 		category: "Special",
-		//isNonstandard: "Past",
+		
 		name: "Aeroblast",
 		pp: 5,
 		priority: 0,
@@ -532,7 +532,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: true,
 		basePower: 0,
 		category: "Status",
-		isNonstandard: "Past",
+		
 		name: "Aromatherapy",
 		pp: 5,
 		priority: 0,
@@ -1555,7 +1555,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 85,
 		basePower: 130,
 		category: "Special",
-		//isNonstandard: "Past",
+		
 		name: "Blue Flare",
 		pp: 5,
 		priority: 0,
@@ -1626,7 +1626,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 85,
 		basePower: 130,
 		category: "Physical",
-		//isNonstandard: "Past",
+		
 		name: "Bolt Strike",
 		pp: 5,
 		priority: 0,
@@ -6215,7 +6215,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 90,
 		basePower: 140,
 		category: "Physical",
-		//isNonstandard: "Past",
+		
 		name: "Freeze Shock",
 		pp: 5,
 		priority: 0,
@@ -6398,7 +6398,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 100,
 		basePower: 100,
 		category: "Physical",
-		//isNonstandard: "Past",
+		
 		name: "Fusion Bolt",
 		pp: 5,
 		priority: 0,
@@ -6419,7 +6419,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 100,
 		basePower: 100,
 		category: "Special",
-		//isNonstandard: "Past",
+		
 		name: "Fusion Flare",
 		pp: 5,
 		priority: 0,
@@ -10798,7 +10798,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 100,
 		basePower: 95,
 		category: "Special",
-		//isNonstandard: "Past",
+		
 		name: "Luster Purge",
 		pp: 5,
 		priority: 0,
@@ -12310,7 +12310,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 100,
 		basePower: 95,
 		category: "Special",
-		//isNonstandard: "Past",
+		
 		name: "Mist Ball",
 		pp: 5,
 		priority: 0,
@@ -12427,7 +12427,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 100,
 		basePower: 100,
 		category: "Special",
-		//isNonstandard: "Past",
+		
 		name: "Moongeist Beam",
 		pp: 5,
 		priority: 0,
@@ -13586,7 +13586,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 100,
 		basePower: 100,
 		category: "Special",
-		//isNonstandard: "Past",
+		
 		name: "Photon Geyser",
 		pp: 5,
 		priority: 0,
@@ -15880,7 +15880,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 95,
 		basePower: 100,
 		category: "Physical",
-		//isNonstandard: "Past",
+		
 		name: "Sacred Fire",
 		pp: 5,
 		priority: 0,
@@ -18928,7 +18928,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 100,
 		basePower: 100,
 		category: "Physical",
-		//isNonstandard: "Past",
+		
 		name: "Sunsteel Strike",
 		pp: 5,
 		priority: 0,
