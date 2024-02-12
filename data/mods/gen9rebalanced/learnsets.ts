@@ -54128,6 +54128,7 @@ cresselia: {
 },
 phione: {
 	learnset: {
+		tailglow: ["9M"],
 		acidarmor: ["9L31", "7L31", "6L31", "5L31", "4L31"],
 		alluringvoice: ["9M"],
 		ancientpower: ["4T"],
