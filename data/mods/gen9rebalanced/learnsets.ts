@@ -77331,6 +77331,7 @@ mareanie: {
 },
 toxapex: {
 	learnset: {
+		lightscreen: ["9M"],
 		acidspray: ["9M", "9L42"],
 		afteryou: ["7T"],
 		attract: ["8M", "7M"],
@@ -77364,7 +77365,7 @@ toxapex: {
 		infestation: ["7M"],
 		irondefense: ["9M", "8M", "7T"],
 		knockoff: ["7T"],
-		lightscreen: ["8M", "7M"],
+		//lightscreen: ["8M", "7M"],
 		liquidation: ["9M", "9L35", "8M", "8L35", "7T", "7L58"],
 		lunge: ["9M"],
 		magiccoat: ["7T"],
