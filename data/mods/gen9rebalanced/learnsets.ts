@@ -187,6 +187,7 @@ missingno: {
 },
 bulbasaur: {
 	learnset: {
+		corrosivegas: ["9M"],
 		toxicspikes: ["9M"],
 		acidspray: ["9M"],
 		amnesia: ["8M", "7E", "6E", "5E", "4E"],
@@ -6441,6 +6442,7 @@ crobat: {
 },
 oddish: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
 		absorb: ["9L1", "8L1", "8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L1", "3S1"],
 		acid: ["9L4", "8L4", "8V", "7L9", "7V", "6L9", "5L9", "4L9", "3L23", "3S0"],
 		acidspray: ["9M"],
@@ -6610,6 +6612,7 @@ gloom: {
 },
 vileplume: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
 		earthpower: ["9M"],
 		calmmind: ["9M"],
 		absorb: ["9L1", "8L1", "8V", "7V", "3L1"],
@@ -6624,7 +6627,7 @@ vileplume: {
 		captivate: ["4M"],
 		charm: ["9M", "8M"],
 		confide: ["7M", "6M"],
-		corrosivegas: ["8T"],
+		//corrosivegas: ["9M", "8T"],
 		curse: ["7V"],
 		cut: ["7V", "6M", "5M", "4M", "3M"],
 		dazzlinggleam: ["9M", "8M", "8V", "7M", "6M"],
@@ -6965,6 +6968,7 @@ parasect: {
 },
 venonat: {
 	learnset: {
+		corrosivegas: ["9M"],
 		acidspray: ["9M"],
 		agility: ["9M", "9E", "7E", "6E", "5E", "4E"],
 		attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
@@ -10388,11 +10392,12 @@ victreebel: {
 		earthquake: ["9M"],
 		gunkshot: ["9M"],
 		grassyglide: ["9M"],
-		corrosivegas: ["9M"],
+		corrosivegas: ["9M", "9M"],
 	},
 },
 tentacool: {
 	learnset: {
+		corrosivegas: ["9M"],
 		recover: ["9M"],
 		acid: ["9L4", "8L4", "8V", "7L10", "7V", "6L10", "5L12", "4L12", "3L19"],
 		acidarmor: ["9L32", "8L32"],
@@ -10510,7 +10515,7 @@ tentacruel: {
 		confide: ["7M", "6M"],
 		confuseray: ["9M"],
 		constrict: ["8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L1"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crosspoison: ["8M"],
 		curse: ["7V"],
 		cut: ["7V", "6M", "5M", "4M", "3M"],
@@ -11554,6 +11559,7 @@ slowpoke: {
 },
 slowpokegalar: {
 	learnset: {
+		corrosivegas: ["9M"],
 		toxic: ["9M"],
 		teleport: ["9M", "9M"],
 		acid: ["9L6", "8L6"],
@@ -11790,6 +11796,7 @@ slowbro: {
 },
 slowbrogalar: {
 	learnset: {
+		corrosivegas: ["9M"],
 		aurasphere: ["9M"],
 		futuresight: ["9M"],
 		toxicspikes: ["9M"],
@@ -12045,6 +12052,7 @@ slowking: {
 },
 slowkinggalar: {
 	learnset: {
+		corrosivegas: ["9M"],
 		aurasphere: ["9M"],
 		teleport: ["9M", "9M"],
 		acid: ["9L1", "8L1"],
@@ -13628,6 +13636,7 @@ cloyster: {
 },
 gastly: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
 		acidspray: ["9M"],
 		allyswitch: ["8M", "7T"],
 		astonish: ["9E", "8E", "7E", "6E", "5E", "4E", "3E"],
@@ -13637,7 +13646,7 @@ gastly: {
 		clearsmog: ["9E", "8E", "7E", "6E", "5E"],
 		confide: ["7M", "6M"],
 		confuseray: ["9M", "9L1", "8L1", "8V", "7L19", "7V", "6L19", "5L19", "4L19", "3L21"],
-		corrosivegas: ["8T"],
+		//corrosivegas: ["9M", "8T"],
 		curse: ["9M", "9L20", "8L20", "7L12", "7V", "6L12", "5L12", "4L12", "3L13"],
 		darkpulse: ["9M", "9L36", "8M", "8L36", "8V", "7M", "7L36", "6M", "6L36", "5T", "5L36", "4M", "4L36"],
 		dazzlinggleam: ["9M", "8M", "8V", "7M", "6M"],
@@ -13731,6 +13740,7 @@ gastly: {
 },
 haunter: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
 		acidspray: ["9M"],
 		allyswitch: ["8M", "7T"],
 		attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -13738,7 +13748,7 @@ haunter: {
 		captivate: ["4M"],
 		confide: ["7M", "6M"],
 		confuseray: ["9M", "9L1", "8L1", "8V", "7L19", "7V", "6L19", "5L19", "5S0", "4L19", "3L21"],
-		corrosivegas: ["8T"],
+		//corrosivegas: ["9M", "8T"],
 		curse: ["9M", "9L20", "8L20", "7L12", "7V", "6L12", "5L12", "4L12", "3L13"],
 		darkpulse: ["9M", "9L42", "8M", "8L42", "8V", "7M", "7L44", "6M", "6L44", "5T", "5L44", "4M", "4L44"],
 		dazzlinggleam: ["9M", "8M", "8V", "7M", "6M"],
@@ -13842,6 +13852,7 @@ haunter: {
 },
 gengar: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
 		aurasphere: ["9M"],
 		acidspray: ["9M"],
 		allyswitch: ["8M", "7T"],
@@ -13853,7 +13864,7 @@ gengar: {
 		captivate: ["4M"],
 		confide: ["7M", "6M"],
 		confuseray: ["9M", "9L1", "8L1", "8V", "7L19", "7V", "6L19", "6S1", "6S2", "6S4", "5L19", "4L19", "3L21", "3S0"],
-		corrosivegas: ["8T"],
+		//corrosivegas: ["9M", "8T"],
 		counter: ["7V", "3T"],
 		curse: ["9M", "9L20", "8L20", "7L12", "7V", "6L12", "5L12", "4L12", "3L13", "3S0"],
 		darkpulse: ["9M", "9L42", "8M", "8L42", "8V", "7M", "7L44", "6M", "6L44", "5T", "5L44", "4M", "4L44"],
@@ -16257,7 +16268,7 @@ koffing: {
 		captivate: ["4M"],
 		clearsmog: ["9L12", "8L12", "8V", "7L15", "6L15", "5L19"],
 		confide: ["7M", "6M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		curse: ["9M", "9E", "8E", "7E", "7V", "6E", "5E", "4E"],
 		darkpulse: ["9M", "8M", "8V", "7M", "6M", "5T", "5D", "4M"],
 		destinybond: ["9L52", "8L52", "7L40", "7E", "7V", "6L40", "6E", "5L51", "5E", "4L46", "4E", "3L45", "3E"],
@@ -16343,7 +16354,7 @@ weezing: {
 		captivate: ["4M"],
 		clearsmog: ["9L12", "8L12", "8V", "7L15", "6L15", "5L19"],
 		confide: ["7M", "6M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		curse: ["9M", "7V"],
 		darkpulse: ["9M", "8M", "8V", "7M", "6M", "5T", "4M"],
 		destinybond: ["9L62", "8L62", "7L46", "7V", "6L46", "5L59", "4L55", "3L51"],
@@ -16430,7 +16441,7 @@ weezinggalar: {
 		bodyslam: ["9M"],
 		brutalswing: ["8M"],
 		clearsmog: ["9L12", "8L12"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		curse: ["9M"],
 		darkpulse: ["9M", "8M"],
 		dazzlinggleam: ["9M", "8M"],
@@ -20081,6 +20092,7 @@ taurospaldeablaze: {
 },
 taurospaldeaaqua: {
 	learnset: {
+		flipturn: ["9M"],
 		toxic: ["9M"],
 		swordsdance: ["9M", ],
 		slackoff: ["9M", ],
@@ -21003,6 +21015,8 @@ espeon: {
 },
 umbreon: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
+		knockoff: ["9M", "9M"],
 		alluringvoice: ["9M"],
 		assurance: ["9L25", "8M", "8L25", "7L25", "6L25", "5L25", "4L43"],
 		attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -23462,7 +23476,7 @@ mew: {
 		confide: ["7M", "6M"],
 		confuseray: ["9M"],
 		confusion: ["8V"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		cosmicpower: ["8M"],
 		counter: ["7V", "3T"],
 		covet: ["7T", "6T", "5T"],
@@ -27878,6 +27892,7 @@ yanmega: {
 },
 wooper: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
 		acidspray: ["9M", "9E", "8E", "7E", "6E", "5E"],
 		afteryou: ["9E", "8E", "7T", "7E", "6T", "6E", "5T", "5E"],
 		amnesia: ["9M", "9L32", "8M", "8L32", "7L23", "7V", "6L23", "5L23", "4L23", "3L21"],
@@ -27977,6 +27992,7 @@ wooper: {
 },
 wooperpaldea: {
 	learnset: {
+		corrosivegas: ["9M"],
 		acidspray: ["9M", "9E"],
 		afteryou: ["9E"],
 		amnesia: ["9M", "9L32"],
@@ -29784,6 +29800,7 @@ qwilfish: {
 },
 qwilfishhisui: {
 	learnset: {
+		corrosivegas: ["9M"],
 		rapidspin: ["9M"],
 		painsplit: ["9M"],
 		thunderwave: ["9M"],
@@ -32159,6 +32176,7 @@ skarmory: {
 },
 houndour: {
 	learnset: {
+		corrosivegas: ["9M"],
 		attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 		beatup: ["9L25", "7L25", "7E", "7V", "6L25", "6E", "5L25", "5E", "4L27", "4E", "3E"],
 		bite: ["9L16", "7L16", "7V", "6L16", "5L16", "4L17", "3L25"],
@@ -37258,6 +37276,7 @@ masquerain: {
 },
 shroomish: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
 		absorb: ["9L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
 		attract: ["7M", "6M", "5M", "4M", "3M"],
 		bodyslam: ["9M", "3T"],
@@ -37328,6 +37347,7 @@ shroomish: {
 },
 breloom: {
 	learnset: {
+		knockoff: ["9M"],
 		grassyglide: ["9M"],
 		absorb: ["9L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
 		aerialace: ["9M"],
@@ -41079,6 +41099,7 @@ camerupt: {
 },
 torkoal: {
 	learnset: {
+		corrosivegas: ["9M"],
 		afteryou: ["7T", "6T", "5T"],
 		amnesia: ["9M", "9L52", "8M", "8L52", "7L40", "6L40", "5L49", "4L49", "3L40"],
 		ancientpower: ["9E", "8E"],
@@ -50238,6 +50259,7 @@ cherrim: {
 },
 shellos: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
 		acidarmor: ["9E", "8E", "7E", "6E"],
 		amnesia: ["9M", "8M", "7E", "6E", "5E", "4E"],
 		ancientpower: ["9L20", "8L20", "4T"],
@@ -50988,7 +51010,7 @@ stunky: {
 		bodyslam: ["9M"],
 		captivate: ["4M"],
 		confide: ["7M", "6M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crunch: ["9M", "8M", "7E", "6E", "5E", "4E"],
 		cut: ["6M", "5M", "4M"],
 		darkpulse: ["9M", "8M", "7M", "6M", "5T", "4M"],
@@ -51086,7 +51108,7 @@ skuntank: {
 		burningjealousy: ["9M", "8T"],
 		captivate: ["4M"],
 		confide: ["7M", "6M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crunch: ["9M", "8M"],
 		cut: ["6M", "5M", "4M"],
 		darkpulse: ["9M", "8M", "7M", "6M", "5T", "4M"],
@@ -52512,7 +52534,7 @@ toxicroak: {
 		closecombat: ["9M"],
 		coaching: ["9M", "8T"],
 		confide: ["7M", "6M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crosspoison: ["8M"],
 		cut: ["6M", "5M", "4M"],
 		darkpulse: ["9M", "8M", "7M", "6M", "5T", "4M"],
@@ -54297,6 +54319,7 @@ manaphy: {
 },
 darkrai: {
 	learnset: {
+		aurasphere: ["9M"],
 		aerialace: ["7M", "6M", "5M", "4M"],
 		blizzard: ["9M", "7M", "6M", "5M", "4M"],
 		brickbreak: ["9M", "7M", "6M", "5M", "4M"],
@@ -61088,7 +61111,7 @@ trubbish: {
 		belch: ["8L33", "7L42", "6L42"],
 		clearsmog: ["8L12", "7L34", "6L34", "5L34"],
 		confide: ["7M", "6M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		curse: ["8E", "7E", "6E", "5E"],
 		darkpulse: ["8M", "7M", "6M", "5T"],
 		doubleslap: ["7L14", "6L14", "5L14"],
@@ -61150,7 +61173,7 @@ garbodor: {
 		bodyslam: ["8M", "8L24", "7L25", "6L25", "5L25"],
 		clearsmog: ["8L12", "7L34", "6L34", "5L34"],
 		confide: ["7M", "6M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crosspoison: ["8M"],
 		darkpulse: ["8M", "7M", "6M", "5T"],
 		doubleslap: ["7L14", "6L14", "5L14"],
@@ -62936,6 +62959,7 @@ escavalier: {
 },
 foongus: {
 	learnset: {
+		corrosivegas: ["9M"],
 		absorb: ["9L1", "8L1", "7L1", "6L1", "5L1"],
 		afteryou: ["7T", "6T", "5T"],
 		astonish: ["9L1", "8L1", "7L8", "6L8", "5L8"],
@@ -65770,6 +65794,7 @@ pawniard: {
 },
 bisharp: {
 	learnset: {
+		knockoff: ["9L100"],
 		aerialace: ["9M", "7M", "6M", "5M"],
 		airslash: ["9M", "8M"],
 		assurance: ["9L25", "8M", "8L25", "7L33", "6L33", "5L33"],
@@ -65801,7 +65826,7 @@ bisharp: {
 		hyperbeam: ["9M", "8M", "7M", "6M", "5M"],
 		irondefense: ["9M", "9L45", "8M", "8L45", "7T", "7L46", "6T", "6L46", "5T", "5L46"],
 		ironhead: ["9M", "9L57", "8M", "8L57", "7T", "7L1", "6T", "6L1", "5T", "5L57"],
-		knockoff: ["7T", "6T", "5T"],
+		//knockoff: ["7T", "6T", "5T"],
 		laserfocus: ["8L50", "7T"],
 		lashout: ["9M", "8T"],
 		leer: ["9L1", "8L1", "7L1", "6L1", "5L1"],
@@ -72018,6 +72043,7 @@ skrelp: {
 },
 dragalge: {
 	learnset: {
+		corrosivegas: ["9M"],
 		acid: ["9L1", "8L1", "7L15", "6L15"],
 		acidspray: ["9M"],
 		aquatail: ["9L45", "8L45", "7T", "7L35", "6T", "6L35"],
@@ -73154,6 +73180,7 @@ goomy: {
 },
 sliggoo: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
 		absorb: ["9L1", "8L1", "7L1", "6L5"],
 		acidarmor: ["9L1"],
 		acidspray: ["9M", "9L0", "8L0"],
@@ -77258,6 +77285,7 @@ wishiwashi: {
 },
 mareanie: {
 	learnset: {
+		corrosivegas: ["9M"],
 		acidspray: ["9M", "9L40"],
 		afteryou: ["7T"],
 		attract: ["8M", "7M"],
@@ -78060,6 +78088,7 @@ shiinotic: {
 },
 salandit: {
 	learnset: {
+		corrosivegas: ["9M"],
 		acidspray: ["9M"],
 		agility: ["9M"],
 		attract: ["8M", "7M"],
@@ -78152,7 +78181,7 @@ salazzle: {
 		burningjealousy: ["9M"],
 		captivate: ["7L1"],
 		confide: ["7M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		covet: ["7T"],
 		crosspoison: ["8M"],
 		disable: ["9L1", "8L1", "7L1"],
@@ -81170,7 +81199,7 @@ nihilego: {
 		clearsmog: ["8L20", "7L7"],
 		confide: ["7M"],
 		constrict: ["7L1"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crosspoison: ["8M"],
 		dazzlinggleam: ["8M", "7M"],
 		doubleteam: ["7M"],
@@ -81599,7 +81628,7 @@ guzzlord: {
 		brickbreak: ["8M", "7M"],
 		brutalswing: ["8M", "8S2", "7M", "7L13"],
 		bulldoze: ["8M", "7M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crunch: ["8M", "8L30", "7L37"],
 		darkpulse: ["8M", "7M"],
 		doubleteam: ["7M"],
@@ -84592,6 +84621,7 @@ barraskewda: {
 },
 toxel: {
 	learnset: {
+		corrosivegas: ["9M"],
 		boomburst: ["9M"],
 		discharge: ["9M"],
 		gunkshot: ["9M"],
@@ -88005,6 +88035,7 @@ calyrexshadow: {
 },
 enamorus: {
 	learnset: {
+		knockoff: ["9M"],
 		toxic: ["9M"],
 		agility: ["9M"],
 		alluringvoice: ["9M"],
@@ -88061,6 +88092,7 @@ enamorus: {
 },
 enamorustherian: {
 	learnset: {
+		knockoff: ["9M"],
 		toxic: ["9M"],
 		agility: ["9M"],
 		alluringvoice: ["9M"],
@@ -91413,6 +91445,7 @@ garganacl: {
 },
 glimmet: {
 	learnset: {
+		corrosivegas: ["9M"],
 		acidarmor: ["9L41"],
 		acidspray: ["9M", "9L7"],
 		ancientpower: ["9L11"],
@@ -93699,6 +93732,7 @@ ceruledge: {
 },
 toedscool: {
 	learnset: {
+		corrosivegas: ["9M", "9M"],
 		shoreup: ['9M'],
 		absorb: ["9L4"],
 		acidspray: ["9M"],
@@ -94247,6 +94281,7 @@ okidogi: {
 },
 munkidori: {
 	learnset: {
+		corrosivegas: ["9M"],
 		acidspray: ["9M"],
 		batonpass: ["9M"],
 		calmmind: ["9M"],
@@ -94895,6 +94930,7 @@ terapagos: {
 },
 pecharunt: {
 	learnset: {
+		corrosivegas: ["9M"],
 		willowisp: ["9M"],
 		focusblast: ["9M"],
 		knockoff: ["9M"],
@@ -97437,7 +97473,7 @@ mollux: {
 		clearsmog: ["9L24", "8L24", "7L25", "5L20"],
 		confide: ["7M"],
 		confuseray: ["9M", "9L8", "8L8", "7L17", "5L17"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		doubleteam: ["7M", "5M"],
 		drainingkiss: ["9M", "9L16", "8M", "8L16", "7L20", "7E"],
 		ember: ["9L1", "8L1", "7L1", "5L1"],
@@ -98320,7 +98356,7 @@ plasmanta: {
 		chillingwater: ["9M"],
 		clearsmog: ["9L28", "8L28", "7L22", "6L22"],
 		confide: ["7M", "6M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crosspoison: ["8M", "7L51", "6L51"],
 		cut: ["6M"],
 		dazzlinggleam: ["9M", "8M", "7M", "6M"],
@@ -99438,7 +99474,7 @@ smoguana: {
 		camouflage: ["7L35"],
 		clearsmog: ["9L20", "8L20", "7L26"],
 		confide: ["7M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crosspoison: ["8M"],
 		defog: ["9M", "7T"],
 		dig: ["9M", "9L1", "8M", "8L1"],
@@ -99516,7 +99552,7 @@ smokomodo: {
 		circlethrow: ["9L1", "8L1", "7L1"],
 		clearsmog: ["9L20", "8L20", "7L29"],
 		confide: ["7M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crosspoison: ["8M"],
 		defog: ["9M", "7T"],
 		dig: ["9M", "9L1", "8M", "8L1"],
@@ -100147,7 +100183,7 @@ miasmite: {
 		breakingswipe: ["8M"],
 		bugbite: ["9M", "9L16", "8L16"],
 		bugbuzz: ["9M", "9L24", "8M", "8L24"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crunch: ["9M", "9L36", "8M", "8L36"],
 		darkpulse: ["9M", "8M"],
 		dracometeor: ["9M", "8T"],
@@ -100214,7 +100250,7 @@ miasmaw: {
 		bugbuzz: ["9M", "9L24", "8M", "8L24"],
 		bulldoze: ["9M", "8M"],
 		closecombat: ["9M", "8M"],
-		corrosivegas: ["8T"],
+		corrosivegas: ["9M", "8T"],
 		crunch: ["9M", "9L40", "8M", "8L40"],
 		darkpulse: ["9M", "8M"],
 		dracometeor: ["9M", "8T"],

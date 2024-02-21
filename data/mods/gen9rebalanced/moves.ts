@@ -780,7 +780,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	aurasphere: {
 		num: 396,
 		accuracy: true,
-		basePower: 80,
+		basePower: 85,
 		category: "Special",
 		name: "Aura Sphere",
 		pp: 20,
@@ -2928,23 +2928,31 @@ export const Moves: {[moveid: string]: MoveData} = {
 	corrosivegas: {
 		num: 810,
 		accuracy: 100,
-		basePower: 0,
-		category: "Status",
+		basePower: 65,
+		category: "Special",
 		name: "Corrosive Gas",
-		pp: 40,
+		pp: 20,
 		priority: 0,
-		flags: {protect: 1, reflectable: 1, mirror: 1, allyanim: 1},
-		onHit(target, source) {
-			const item = target.takeItem(source);
-			if (item) {
-				this.add('-enditem', target, item.name, '[from] move: Corrosive Gas', '[of] ' + source);
-			} else {
-				this.add('-fail', target, 'move: Corrosive Gas');
+		flags: {protect: 1, mirror: 1},
+		onBasePower(basePower, source, target, move) {
+			const item = target.getItem();
+			if (!this.singleEvent('TakeItem', item, target.itemState, target, target, move, item)) return;
+			if (item.id) {
+				return this.chainModify(1.5);
+			}
+		},
+		onAfterHit(target, source) {
+			if (source.hp) {
+				const item = target.takeItem();
+				if (item) {
+					this.add('-enditem', target, item.name, '[from] move: Corrosive Gas', '[of] ' + source);
+				}
 			}
 		},
 		secondary: null,
-		target: "allAdjacent",
+		target: "normal",
 		type: "Poison",
+		contestType: "Clever",
 	},
 	cosmicpower: {
 		num: 322,
@@ -14852,13 +14860,15 @@ export const Moves: {[moveid: string]: MoveData} = {
 	ragefist: {
 		num: 889,
 		accuracy: 100,
-		basePower: 50,
-		basePowerCallback(pokemon) {
-			return Math.min(170, 50 + 30 * pokemon.timesAttacked);
+		basePower: 140,
+		self: {
+			boosts: {
+				spa: -2,
+			},
 		},
 		category: "Physical",
 		name: "Rage Fist",
-		pp: 10,
+		pp: 5,
 		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1, punch: 1},
 		secondary: null,
@@ -16307,9 +16317,9 @@ export const Moves: {[moveid: string]: MoveData} = {
 		priority: 0,
 		flags: {protect: 1, mirror: 1},
 		secondary: {
-			chance: 40,
+			chance: 20,
 			boosts: {
-				spd: -2,
+				spd: -1,
 			},
 		},
 		target: "normal",

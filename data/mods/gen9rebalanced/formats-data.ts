@@ -2944,7 +2944,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	shayminsky: {
-		tier: "Uber",
+		tier: "OU",
 		natDexTier: "OU",
 	},
 	arceus: {
@@ -5897,7 +5897,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	annihilape: {
-		tier: "UU",
+		tier: "UUBL",
 		doublesTier: "DUber",
 		natDexTier: "OU",
 	},
