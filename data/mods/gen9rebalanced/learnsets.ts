@@ -92881,6 +92881,8 @@ ironthorns: {
 },
 ironbundle: {
 	learnset: {
+		surf: ["9M"],
+		voltswitch: ["9M"],
 		toxic: ["9M"],
 		airslash: ["9M"],
 		hurricane: ["9M"],

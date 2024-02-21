@@ -14860,7 +14860,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	ragefist: {
 		num: 889,
 		accuracy: 100,
-		basePower: 140,
+		basePower: 130,
 		self: {
 			boosts: {
 				atk: -2,
