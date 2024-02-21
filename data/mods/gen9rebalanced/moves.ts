@@ -14863,7 +14863,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		basePower: 140,
 		self: {
 			boosts: {
-				spa: -2,
+				atk: -2,
 			},
 		},
 		category: "Physical",
@@ -16309,7 +16309,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	},
 	seedflare: {
 		num: 465,
-		accuracy: 85,
+		accuracy: 90,
 		basePower: 120,
 		category: "Special",
 		name: "Seed Flare",
