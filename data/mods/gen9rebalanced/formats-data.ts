@@ -5879,7 +5879,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	toedscool: {
-		tier: "NFE",
+		tier: "LC",
 	},
 	toedscruel: {
 		tier: "NU",
