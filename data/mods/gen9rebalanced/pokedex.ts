@@ -18297,7 +18297,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Flutter Mane",
 		types: ["Ghost", "Fairy"],
 		gender: "N",
-		baseStats: {hp: 75, atk: 75, def: 75, spa: 115, spd: 115, spe: 115},
+		baseStats: {hp: 65, atk: 65, def: 65, spa: 125, spd: 125, spe: 125},
 		abilities: {0: "Protosynthesis", H: "Cursed Body"},
 		heightm: 1.4,
 		weightkg: 4,

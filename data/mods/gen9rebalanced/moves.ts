@@ -5841,7 +5841,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	flipturn: {
 		num: 812,
 		accuracy: 100,
-		basePower: 60,
+		basePower: 70,
 		category: "Physical",
 		name: "Flip Turn",
 		pp: 20,
