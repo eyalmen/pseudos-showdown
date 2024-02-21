@@ -20092,7 +20092,6 @@ taurospaldeablaze: {
 },
 taurospaldeaaqua: {
 	learnset: {
-		flipturn: ["9M"],
 		toxic: ["9M"],
 		swordsdance: ["9M", ],
 		slackoff: ["9M", ],
