@@ -65794,7 +65794,6 @@ pawniard: {
 },
 bisharp: {
 	learnset: {
-		knockoff: ["9L100"],
 		aerialace: ["9M", "7M", "6M", "5M"],
 		airslash: ["9M", "8M"],
 		assurance: ["9L25", "8M", "8L25", "7L33", "6L33", "5L33"],
