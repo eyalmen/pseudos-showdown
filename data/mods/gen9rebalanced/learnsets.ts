@@ -65705,7 +65705,7 @@ golurk: {
 },
 pawniard: {
 	learnset: {
-		knockoff: ['9L100'],
+		//knockoff: ['9L100'],
 		kowtowcleave: ['9M'],
 		aerialace: ["9M", "7M", "6M", "5M"],
 		airslash: ["9M"],
