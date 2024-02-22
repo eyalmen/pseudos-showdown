@@ -65736,7 +65736,7 @@ pawniard: {
 		honeclaws: ["6M", "5M"],
 		irondefense: ["9M", "9L45", "8M", "8L45", "7T", "7L46", "6T", "6L46", "5T", "5L46"],
 		ironhead: ["9M", "9L55", "8M", "8L55", "7T", "7L54", "6T", "6L54", "5T", "5L54"],
-		..knockoff: ["7T", "6T", "5T"],
+		//knockoff: ["7T", "6T", "5T"],
 		laserfocus: ["8L50"],
 		lashout: ["9M", "8T"],
 		leer: ["9L1", "8L1", "7L6", "6L6", "5L6"],
