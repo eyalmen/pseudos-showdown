@@ -4364,7 +4364,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	},
 	dualchop: {
 		num: 530,
-		accuracy: 90,
+		accuracy: 100,
 		basePower: 50,
 		category: "Physical",
 		name: "Dual Chop",
@@ -4380,7 +4380,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	},
 	dualwingbeat: {
 		num: 814,
-		accuracy: 90,
+		accuracy: 100,
 		basePower: 50,
 		category: "Physical",
 		name: "Dual Wingbeat",
