@@ -10966,6 +10966,7 @@ graveleralola: {
 },
 golem: {
 	learnset: {
+		suckerpunch: ["9M"],
 		headlongrush: ["9M"],
 		headsmash: ["9M"],
 		rapidspin: ["9M"],
@@ -11053,7 +11054,7 @@ golem: {
 		strength: ["7V", "6M", "5M", "4M", "3M"],
 		submission: ["7V"],
 		substitute: ["9M", "8V", "7M", "7V", "6M", "5M", "4M", "3T"],
-		suckerpunch: ["4T"],
+		//suckerpunch: ["4T"],
 		sunnyday: ["9M", "7M", "7V", "6M", "5M", "4M", "3M"],
 		superpower: ["9M", "8V", "7T", "6T", "5T", "4T"],
 		swagger: ["7M", "7V", "6M", "5M", "4M", "3T"],
