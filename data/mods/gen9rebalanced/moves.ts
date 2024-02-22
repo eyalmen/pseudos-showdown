@@ -1200,6 +1200,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		pp: 5,
 		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
+		overrideOffensiveStat: 'def',
 		secondary: null,
 		target: "normal",
 		type: "Steel",
@@ -9984,7 +9985,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	jetpunch: {
 		num: 857,
 		accuracy: 100,
-		basePower: 60,
+		basePower: 50,
 		category: "Physical",
 		name: "Jet Punch",
 		pp: 15,

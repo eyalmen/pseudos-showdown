@@ -5341,12 +5341,12 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	zamazenta: {
 //		isNonstandard: "Unobtainable",
-		tier: "Uber",
+		tier: "OU",
 		natDexTier: "Uber",
 	},
 	zamazentacrowned: {
 //		isNonstandard: "Unobtainable",
-		tier: "Uber",
+		tier: "OU",
 		natDexTier: "Uber",
 	},
 	eternatus: {
@@ -5555,7 +5555,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	palafin: {
-		tier: "Uber",
+		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "Uber",
 	},

@@ -86948,9 +86948,6 @@ zaciancrowned: {
 zamazenta: {
 	learnset: {
 		toxic: ["9M"],
-		bulkup: ["9M"],
-		recover: ["9M"],
-		kingsshield: ["9M"],
 		agility: ["9M", "8M"],
 		bite: ["9L1", "8L1"],
 		bodypress: ["9M"],
@@ -86976,7 +86973,7 @@ zamazenta: {
 		hypervoice: ["9M", "8M"],
 		icefang: ["9M", "8M"],
 		imprison: ["9M", "8M"],
-		irondefense: ["9M", "9L22", "8M", "8L22", "8S0", "8S1"],
+		//irondefense: ["9M", "9L22", "8M", "8L22", "8S0", "8S1"],
 		ironhead: ["9M", "9L33", "8M", "8L33", "8S0", "8S1"],
 		irontail: ["8M"],
 		laserfocus: ["8L44"],
@@ -87672,7 +87669,6 @@ glastrier: {
 },
 spectrier: {
 	learnset: {
-		toxic: ["9M"],
 		agility: ["9M", "9L48", "8M", "8L48"],
 		assurance: ["8M"],
 		bodyslam: ["9M", "8M"],
@@ -89687,12 +89683,6 @@ finizen: {
 },
 palafin: {
 	learnset: {
-		icespinner: ["9M"],
-		recover: ["9M"],
-		machpunch: ["9M"],
-		superpower: ["9M"],
-		swordsdance: ["9M"],
-		extremespeed: ["9M"],
 		acrobatics: ["9M", "9L29"],
 		agility: ["9M"],
 		aquajet: ["9L13"],
