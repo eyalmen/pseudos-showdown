@@ -433,7 +433,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	vileplume: {
 		tier: "PU",
-		natDexTier: "NU",
+		natDexTier: "RU",
 	},
 	bellossom: {
 		tier: "PU",
@@ -453,7 +453,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	venomoth: {
-		tier: "NU",
+		tier: "PU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -501,7 +501,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	perrserker: {
-		tier: "NU",
+		tier: "PU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1927,7 +1927,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	gardevoir: {
-		tier: "NU",
+		tier: "RU",
 		doublesTier: "DUU",
 		natDexTier: "RU",
 	},

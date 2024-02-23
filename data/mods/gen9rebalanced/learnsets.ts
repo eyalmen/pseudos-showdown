@@ -19346,6 +19346,7 @@ electabuzz: {
 },
 electivire: {
 	learnset: {
+		machpunch: ["9M"],
 		plasmafists: ["9M"],
 		knockoff: ["9M"],
 		closecombat: ["9M"],
