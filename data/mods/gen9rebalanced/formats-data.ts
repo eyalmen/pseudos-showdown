@@ -16,7 +16,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	walkingwake: {
-		tier: "OU",
+		tier: "UUBL",
 		natDexTier: "OU",
 	},
 	ragingbolt: {
@@ -2536,7 +2536,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	deoxysspeed: {
-		tier: "OU",
+		tier: "UUBL",
 		natDexTier: "Uber",
 	},
 	turtwig: {
@@ -2572,7 +2572,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	empoleon: {
-		tier: "UU",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	starly: {
@@ -4873,7 +4873,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	cinderace: {
-		tier: "OU",
+		tier: "UUBL",
 		doublesTier: "DUU",
 		natDexTier: "UU",
 	},
@@ -5439,7 +5439,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	enamorus: {
 //		isNonstandard: "Unobtainable",
-		tier: "OU",
+		tier: "UUBL",
 		natDexTier: "OU",
 	},
 	enamorustherian: {
@@ -5454,7 +5454,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	meowscarada: {
-		tier: "UU",
+		tier: "UUBL",
 		doublesTier: "DOU",
 		natDexTier: "RU",
 	},
@@ -5874,7 +5874,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	ceruledge: {
-		tier: "UUBL",
+		tier: "OU",
 		doublesTier: "DUU",
 		natDexTier: "RU",
 	},
@@ -5961,7 +5961,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	ironboulder: {
-		tier: "OU",
+		tier: "UU",
 		doublesTier: "DOU",
 		natDexTier: "OU",
 	},
