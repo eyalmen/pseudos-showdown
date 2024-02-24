@@ -4898,7 +4898,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	inteleon: {
 //		isNonstandard: "Unobtainable",
-		tier: "RUBL",
+		tier: "UU",
 		natDexTier: "RU",
 	},
 	inteleonmega: {
