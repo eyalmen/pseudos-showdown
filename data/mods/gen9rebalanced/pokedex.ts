@@ -18927,7 +18927,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Raging Bolt",
 		types: ["Electric", "Dragon"],
 		gender: "N",
-		baseStats: {hp: 125, atk: 65, def: 101, spa: 137, spd: 105, spe: 57},
+		baseStats: {hp: 125, atk: 75, def: 101, spa: 127, spd: 105, spe: 57},
 		abilities: {0: "Protosynthesis", H: "Electric Surge"},
 		heightm: 5.2,
 		weightkg: 580,
