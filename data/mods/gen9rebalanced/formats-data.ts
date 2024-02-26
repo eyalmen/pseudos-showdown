@@ -32,7 +32,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	venusaur: {
-		tier: "RU",
+		tier: "UU",
 		natDexTier: "RU",
 	},
 	venusaurmega: {
@@ -551,7 +551,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	politoed: {
-		tier: "RUBL",
+		tier: "PU",
 		natDexTier: "RU",
 	},
 	abra: {
@@ -937,11 +937,11 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	chansey: {
-		tier: "NU",
+		tier: "RU",
 		natDexTier: "UU",
 	},
 	blissey: {
-		tier: "RU",
+		tier: "UU",
 		doublesTier: "(DUU)",
 		natDexTier: "UU",
 	},
@@ -2175,7 +2175,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	torkoal: {
-		tier: "RU",
+		tier: "UU",
 		doublesTier: "DOU",
 		natDexTier: "UU",
 	},
@@ -2449,7 +2449,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	metagross: {
-		tier: "UU",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	metagrossmega: {
@@ -2471,7 +2471,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	latias: {
 		//isNonstandard: "Past",
-		tier: "RUBL",
+		tier: "UU",
 		natDexTier: "RU",
 	},
 	latiasmega: {
@@ -3524,7 +3524,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	amoonguss: {
-		tier: "RU",
+		tier: "UU",
 		doublesTier: "DOU",
 		natDexTier: "RU",
 	},
@@ -4298,7 +4298,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	primarina: {
-		tier: "RUBL",
+		tier: "UU",
 		natDexTier: "RU",
 	},
 	pikipek: {
@@ -5805,7 +5805,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	ironjugulis: {
-		tier: "UU",
+		tier: "RUBL",
 		doublesTier: "DUU",
 		natDexTier: "RU",
 	},
