@@ -30281,6 +30281,7 @@ sneasel: {
 },
 sneaselhisui: {
 	learnset: {
+		pursuit: ["9M"],
 		direclaw: ["9M"],
 		uturn: ["9M"],
 		firepunch: ["9M"],
@@ -47197,7 +47198,7 @@ jirachi: {
 		meteormash: ["9L49", "8L49", "8S23", "5S13", "5S14", "5S15"],
 		metronome: ["9M", "8M", "3T"],
 		mimic: ["3T"],
-		moonblast: ["9M", "6S17"],
+		//moonblast: ["9M", "6S17"],
 		moonlight: ["9M"],
 		mudslap: ["9M", "4T", "3T"],
 		naturalgift: ["4M"],
@@ -55659,6 +55660,7 @@ samurott: {
 },
 samurotthisui: {
 	learnset: {
+		pursuit: ["9M"],
 		spikes: ["9M"],
 		aerialace: ["9M", "9L29"],
 		airslash: ["9M"],
@@ -59388,6 +59390,7 @@ basculegionf: {
 },
 sandile: {
 	learnset: {
+		dragondance: ["9M"],
 		uturn: ["9M"],
 		knockoff: ["9M"],
 		aquatail: ["9E", "8E", "7T", "6T", "5T"],
@@ -82893,6 +82896,7 @@ raboot: {
 },
 cinderace: {
 	learnset: {
+		pursuit: ["9M"],
 		acrobatics: ["9M", "8M"],
 		agility: ["9M", "9L24", "8M", "8L24"],
 		allyswitch: ["8M"],
@@ -92449,6 +92453,7 @@ slitherwing: {
 },
 roaringmoon: {
 	learnset: {
+		pursuit: ["9M"],
 		toxic: ["9M"],
 		defog: ["9M"],
 		acrobatics: ["9M"],
@@ -92874,7 +92879,7 @@ ironthorns: {
 ironbundle: {
 	learnset: {
 		surf: ["9M"],
-		voltswitch: ["9M"],
+		//voltswitch: ["9M"],
 		toxic: ["9M"],
 		airslash: ["9M"],
 		hurricane: ["9M"],
@@ -93851,7 +93856,8 @@ toedscruel: {
 walkingwake: {
 	learnset: {
 		toxic: ["9M"],
-		calmmind: ["9M"],
+		//calmmind: ["9M"],
+		shockwave: ["9M"],
 		agility: ["9M"],
 		aquajet: ["9L1"],
 		bite: ["9L7", "9L07"],

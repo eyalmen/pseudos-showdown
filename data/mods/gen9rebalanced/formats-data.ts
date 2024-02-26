@@ -1055,7 +1055,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	electivire: {
-		tier: "NU",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	magby: {
