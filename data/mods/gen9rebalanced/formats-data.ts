@@ -378,7 +378,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	clefable: {
-		tier: "OU",
+		tier: "UU",
 		natDexTier: "UU",
 	},
 	vulpix: {
@@ -1795,7 +1795,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	blaziken: {
-		tier: "UU",
+		tier: "RUBL",
 		natDexTier: "UU",
 	},
 	blazikenmega: {
@@ -4687,7 +4687,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	kommoo: {
-		tier: "UU",
+		tier: "RUBL",
 		natDexTier: "UU",
 	},
 	kommoototem: {
@@ -5341,7 +5341,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	zamazenta: {
 //		isNonstandard: "Unobtainable",
-		tier: "OU",
+		tier: "UUBL",
 		natDexTier: "Uber",
 	},
 	zamazentacrowned: {
@@ -5773,7 +5773,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	slitherwing: {
-		tier: "UU",
+		tier: "RU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -5825,7 +5825,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	tinglu: {
-		tier: "OU",
+		tier: "UU",
 		doublesTier: "DOU",
 		natDexTier: "UU",
 	},
