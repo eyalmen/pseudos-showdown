@@ -3049,7 +3049,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	samurotthisui: {
 //		isNonstandard: "Unobtainable",
-		tier: "OU",
+		tier: "UU",
 		natDexTier: "UU",
 	},
 	patrat: {
