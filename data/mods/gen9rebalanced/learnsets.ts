@@ -88036,6 +88036,8 @@ calyrexshadow: {
 },
 enamorus: {
 	learnset: {
+		uturn: ["9M"],
+		defog: ["9M"],
 		knockoff: ["9M"],
 		toxic: ["9M"],
 		agility: ["9M"],
@@ -88093,6 +88095,8 @@ enamorus: {
 },
 enamorustherian: {
 	learnset: {
+		uturn: ["9M"],
+		defog: ["9M"],
 		knockoff: ["9M"],
 		toxic: ["9M"],
 		agility: ["9M"],

@@ -16,7 +16,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	walkingwake: {
-		tier: "UUBL",
+		tier: "OU",
 		natDexTier: "OU",
 	},
 	ragingbolt: {
@@ -1795,7 +1795,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	blaziken: {
-		tier: "RUBL",
+		tier: "UU",
 		natDexTier: "UU",
 	},
 	blazikenmega: {
@@ -5768,7 +5768,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	fluttermane: {
-		tier: "UUBL",
+		tier: "OU",
 		doublesTier: "DUber",
 		natDexTier: "OU",
 	},
@@ -5897,7 +5897,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	annihilape: {
-		tier: "UUBL",
+		tier: "OU",
 		doublesTier: "DUber",
 		natDexTier: "OU",
 	},
