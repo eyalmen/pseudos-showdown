@@ -159,7 +159,7 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 	},
 	beadsofruin: {
 		name: "Beads of Ruin",
-		shortDesc: "Active Pokemon without this Ability have their Special Defense multiplied by 0.75.",
+		shortDesc: "Active Pokemon without this Ability have their Special Defense multiplied by 0.8.",
 
 		start: "  [POKEMON]'s Beads of Ruin weakened the Sp. Def of all surrounding Pokémon!",
 	},
@@ -1396,7 +1396,7 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 	},
 	regenerator: {
 		name: "Regenerator",
-		shortDesc: "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out.",
+		shortDesc: "This Pokemon restores 1/4 of its maximum HP, rounded down, when it switches out.",
 	},
 	ripen: {
 		name: "Ripen",
@@ -1815,7 +1815,7 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 	},
 	swordofruin: {
 		name: "Sword of Ruin",
-		shortDesc: "Active Pokemon without this Ability have their Defense multiplied by 0.75.",
+		shortDesc: "Active Pokemon without this Ability have their Defense multiplied by 0.8.",
 
 		start: "  [POKEMON]'s Sword of Ruin weakened the Defense of all surrounding Pokémon!",
 	},
@@ -1842,7 +1842,7 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 	},
 	tabletsofruin: {
 		name: "Tablets of Ruin",
-		shortDesc: "Active Pokemon without this Ability have their Attack multiplied by 0.75.",
+		shortDesc: "Active Pokemon without this Ability have their Attack multiplied by 0.8.",
 
 		start: "  [POKEMON]'s Tablets of Ruin weakened the Attack of all surrounding Pokémon!",
 	},
@@ -1888,7 +1888,7 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 	thermalexchange: {
 		name: "Thermal Exchange",
 		desc: "This Pokemon's Attack is raised 1 stage after it is damaged by a Fire-type move. This Pokemon cannot be burned. Gaining this Ability while burned cures it.",
-		shortDesc: "This Pokemon's Attack is raised by 1 when damaged by Fire moves; can't be burned.",
+		shortDesc: "This Pokemon's Attack is raised by 1 when damaged by Fire moves; can't be burned. Fire Immunity.",
 	},
 	thickfat: {
 		name: "Thick Fat",
@@ -2010,7 +2010,7 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 	},
 	vesselofruin: {
 		name: "Vessel of Ruin",
-		shortDesc: "Active Pokemon without this Ability have their Special Attack multiplied by 0.75.",
+		shortDesc: "Active Pokemon without this Ability have their Special Attack multiplied by 0.8.",
 
 		start: "  [POKEMON]'s Vessel of Ruin weakened the Sp. Atk of all surrounding Pokémon!",
 	},
@@ -2053,7 +2053,7 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 	},
 	watercompaction: {
 		name: "Water Compaction",
-		shortDesc: "This Pokemon's Defense is raised 2 stages after it is damaged by a Water-type move.",
+		shortDesc: "This Pokemon's Defense is raised 2 stages after it is damaged by a Water-type move. Water Immunity",
 	},
 	waterveil: {
 		name: "Water Veil",

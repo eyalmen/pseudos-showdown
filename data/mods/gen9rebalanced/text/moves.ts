@@ -1075,7 +1075,7 @@ export const MovesText: {[k: string]: MoveText} = {
 	corrosivegas: {
 		name: "Corrosive Gas",
 		desc: "The target loses its held item. This move cannot cause Pokemon with the Sticky Hold Ability to lose their held item or cause a Kyogre, a Groudon, a Giratina, an Arceus, a Genesect, a Silvally, a Zacian, or a Zamazenta to lose their Blue Orb, Red Orb, Griseous Orb, Plate, Drive, Memory, Rusted Sword, or Rusted Shield respectively. Items lost to this move cannot be regained with Recycle or the Harvest Ability.",
-		shortDesc: "Removes adjacent Pokemon's held items.",
+		shortDesc: "1.5x damage if foe holds an item. Removes item.",
 
 		fail: "#healblock",
 		removeItem: "  [SOURCE] corroded [POKEMON]'s [ITEM]!",
@@ -1341,8 +1341,8 @@ export const MovesText: {[k: string]: MoveText} = {
 	},
 	direclaw: {
 		name: "Dire Claw",
-		desc: "Has a 50% chance to cause the target to either fall asleep, become poisoned, or become paralyzed.",
-		shortDesc: "50% chance to sleep, poison, or paralyze target.",
+		desc: "Has a 50% chance to cause the target to either become poisoned or become paralyzed.",
+		shortDesc: "50% chance to poison or paralyze target.",
 	},
 	disable: {
 		name: "Disable",
@@ -4946,7 +4946,7 @@ export const MovesText: {[k: string]: MoveText} = {
 	ragefist: {
 		name: "Rage Fist",
 		desc: "Power is equal to 50+(X*50), where X is the total number of times the user has been hit by a damaging attack during the battle, even if the user did not lose HP from the attack. X cannot be greater than 6 and does not reset upon switching out or fainting. Each hit of a multi-hit attack is counted, but confusion damage is not counted.",
-		shortDesc: "+50 power for each time user was hit. Max 6 hits.",
+		shortDesc: "Lowers the user's Attack by 2.",
 	},
 	ragepowder: {
 		name: "Rage Powder",
