@@ -2936,7 +2936,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	darkrai: {
-		tier: "OU",
+		tier: "UUBL",
 		natDexTier: "Uber",
 	},
 	shaymin: {
