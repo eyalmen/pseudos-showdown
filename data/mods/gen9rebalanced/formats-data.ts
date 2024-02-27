@@ -32,7 +32,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	venusaur: {
-		tier: "UU",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	venusaurmega: {
@@ -390,7 +390,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "LC",
 	},
 	ninetales: {
-		tier: "NUBL",
+		tier: "RU",
 		natDexTier: "RU",
 	},
 	ninetalesalola: {
@@ -2175,7 +2175,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	torkoal: {
-		tier: "UU",
+		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "UU",
 	},
