@@ -93860,7 +93860,7 @@ toedscruel: {
 walkingwake: {
 	learnset: {
 		toxic: ["9M"],
-		calmmind: ["9M"],
+		//calmmind: ["9M"],
 		shockwave: ["9M"],
 		agility: ["9M"],
 		aquajet: ["9L1"],
