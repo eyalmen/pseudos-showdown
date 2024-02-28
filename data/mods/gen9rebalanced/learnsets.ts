@@ -14628,6 +14628,7 @@ kingler: {
 },
 voltorb: {
 	learnset: {
+		grassknot: ["9M"],
 		rapidspin: ["9M"],
 		agility: ["9M"],
 		bide: ["7V"],
@@ -14726,7 +14727,7 @@ voltorbhisui: {
 		facade: ["9M"],
 		foulplay: ["9M"],
 		gigadrain: ["9M"],
-		grassknot: ["9M"],
+		//grassknot: ["9M"],
 		grassyglide: ["9M"],
 		grassyterrain: ["9M", "9L50"],
 		gyroball: ["9M", "9L46"],
