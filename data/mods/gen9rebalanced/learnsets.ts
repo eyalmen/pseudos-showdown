@@ -15926,6 +15926,7 @@ hitmonchan: {
 },
 hitmontop: {
 	learnset: {
+		knockoff: ["9M"],
 		uturn: ["9M"],
 		spinout: ["9M"],
 		flamewheel: ["9M"],
@@ -34971,6 +34972,7 @@ poochyena: {
 },
 mightyena: {
 	learnset: {
+		knockoff: ["9M"],
 		jawlock: ["9M"],
 		partingshot: ["9M"],
 		beatup: ["9M"],
@@ -48997,6 +48999,7 @@ luxio: {
 },
 luxray: {
 	learnset: {
+		knockoff: ["9M"],
 		closecombat: ["9M", ],
 		suckerpunch: ["9M", ],
 		bulkup: ["9M", ],
