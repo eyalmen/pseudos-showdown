@@ -12926,7 +12926,7 @@ seel: {
 dewgong: {
 	learnset: {
 		recover: ["9M"],
-		calmmind: ["9M"],
+		//calmmind: ["9M"],
 		moonblast: ["9M"],
 		icespinner: ["9M"],
 		alluringvoice: ["9M"],
@@ -14708,6 +14708,7 @@ voltorb: {
 },
 voltorbhisui: {
 	learnset: {
+		grassknot: ["9M"],
 		toxic: ["9M"],
 		rapidspin: ["9M"],
 		agility: ["9M"],
@@ -20191,7 +20192,9 @@ magikarp: {
 gyarados: {
 	learnset: {
 		liquidation: ["9M"],
+		powerwhip: ["9M"],
 		icespinner: ["9M"],
+		dracometeor: ["9M"],
 		aquatail: ["9L32", "8L32", "7T", "7L30", "6T", "6L35", "5T", "5L35", "4T", "4L35"],
 		attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 		avalanche: ["9M", "8M", "4M"],
@@ -20249,7 +20252,7 @@ gyarados: {
 		naturalgift: ["4M"],
 		outrage: ["9M", "8M", "8V", "7T", "6T", "5T", "4T"],
 		payback: ["8M", "7M", "6M", "5M", "4M"],
-		powerwhip: ["8M"],
+		//powerwhip: ["8M"],
 		protect: ["9M", "8M", "8V", "7M", "7V", "6M", "5M", "4M", "3M"],
 		rage: ["8V", "7V"],
 		raindance: ["9M", "9L28", "8M", "8L28", "7M", "7L51", "7V", "6M", "6L38", "5M", "5L38", "4M", "4L38", "3M", "3L45"],
@@ -20310,6 +20313,7 @@ gyarados: {
 lapras: {
 	learnset: {
 		flipturn: ["9M"],
+		calmmind: ["9M"],
 		recover: ["9M"],
 		alluringvoice: ["9M"],
 		ancientpower: ["9E", "8E", "7E", "6E", "5E", "4T", "4E"],
@@ -21017,7 +21021,7 @@ espeon: {
 },
 umbreon: {
 	learnset: {
-		corrosivegas: ["9M", "9M"],
+		//corrosivegas: ["9M", "9M"],
 		knockoff: ["9M", "9M"],
 		alluringvoice: ["9M"],
 		assurance: ["9L25", "8M", "8L25", "7L25", "6L25", "5L25", "4L43"],
@@ -31208,6 +31212,7 @@ swinub: {
 },
 piloswine: {
 	learnset: {
+		knockoff: ["9M"],
 		amnesia: ["9M", "9L37", "8M", "8L37", "7L58", "7V", "6L58", "5L65", "4L65", "3L70"],
 		ancientpower: ["9L1", "8L1", "7L1", "6L1", "5L1", "4T", "4L1"],
 		attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
