@@ -80469,6 +80469,7 @@ hakamoo: {
 },
 kommoo: {
 	learnset: {
+		machpunch: ["9M"],
 		aerialace: ["9M", "7M"],
 		aquatail: ["7T"],
 		attract: ["8M", "7M"],
@@ -83347,6 +83348,12 @@ rookidee: {
 },
 corvisquire: {
 	learnset: {
+		ironhead: ["9M"],
+		steelwing: ["9M"],
+		steelbeam: ["9M"],
+		flashcannon: ["9M"],
+		metalclaw: ["9M"],
+		irondefense: ["9M"],
 		aerialace: ["9M"],
 		agility: ["9M", "8M"],
 		aircutter: ["9M"],
@@ -84700,7 +84707,7 @@ toxtricity: {
 		zingzap: ["9M"],
 		// barbbarrage: ["9M"],
 		poisonfang: ["9M"],
-		direclaw: ["9M"],
+		//direclaw: ["9M"],
 		quickattack: ["9M"],
 		superpower: ["9M"],
 		shiftgear: ["9M"],
@@ -84795,7 +84802,7 @@ toxtricitylowkey: {
 		zingzap: ["9M"],
 		// barbbarrage: ["9M"],
 		poisonfang: ["9M"],
-		direclaw: ["9M"],
+		//direclaw: ["9M"],
 		quickattack: ["9M"],
 		superpower: ["9M"],
 		shiftgear: ["9M"],
@@ -85532,6 +85539,7 @@ morgrem: {
 grimmsnarl: {
 	learnset: {
 		pursuit: ["9M", "8M"],
+		knockoff: ["9M"],
 		assurance: ["9L16", "8M", "8L16"],
 		attract: ["8M"],
 		bite: ["9L1", "8L1"],
@@ -86648,6 +86656,8 @@ arctovish: {
 },
 duraludon: {
 	learnset: {
+		focusblast: ["9M"],
+		aurasphere: ["9M"],
 		toxic: ["9M"],
 		flamethrower: ["9M"],
 		fireblast: ["9M"],
@@ -88059,7 +88069,7 @@ calyrexshadow: {
 },
 enamorus: {
 	learnset: {
-		uturn: ["9M"],
+		//uturn: ["9M"],
 		defog: ["9M"],
 		knockoff: ["9M"],
 		toxic: ["9M"],
@@ -89614,6 +89624,7 @@ dondozo: {
 veluza: {
 	learnset: {
 		toxic: ["9M"],
+		swordsdance: ["9M"],
 		agility: ["9M"],
 		aquacutter: ["9L25"],
 		aquajet: ["9L1"],
@@ -91060,6 +91071,7 @@ kilowattrel: {
 },
 bombirdier: {
 	learnset: {
+		defog: ["9M"],
 		pursuit: ["9M"],
 		toxic: ["9M"],
 		accelerock: ["9M"],
@@ -91186,6 +91198,7 @@ squawkabilly: {
 },
 flamigo: {
 	learnset: {
+		defog: ["9M"],
 		toxic: ["9M"],
 		acrobatics: ["9M"],
 		aerialace: ["9M"],
@@ -91247,7 +91260,7 @@ klawf: {
 	learnset: {
 		toxic: ["9M"],
 		earthquake: ["9M"],
-		spikyshield: ["9M"],
+		//spikyshield: ["9M"],
 		spikes: ["9M"],
 		shoreup: ["9M"],
 		ancientpower: ["9E"],
@@ -94140,7 +94153,7 @@ poltchageistartisan: {
 },
 sinistcha: {
 	learnset: {
-		shellsmash: ["9M"],
+		//shellsmash: ["9M"],
 		absorb: ["9L6"],
 		astonish: ["9L1"],
 		calmmind: ["9M"],
@@ -94649,6 +94662,7 @@ hydrapple: {
 },
 gougingfire: {
 	learnset: {
+		toxic: ["9M"],
 		ancientpower: ["9L1"],
 		bite: ["9L21"],
 		bodyslam: ["9M"],
@@ -94714,7 +94728,7 @@ gougingfire: {
 },
 ragingbolt: {
 	learnset: {
-		paraboliccharge: ["9M"],
+		//paraboliccharge: ["9M"],
 		flamethrower: ["9M"],
 		toxic: ["9M"],
 		ancientpower: ["9L1"],
@@ -94747,7 +94761,7 @@ ragingbolt: {
 		outrage: ["9M"],
 		protect: ["9M"],
 		rest: ["9M"],
-		//risingvoltage: ["9L63"],
+		risingvoltage: ["9L63"],
 		roar: ["9M"],
 		scaryface: ["9M"],
 		shockwave: ["9L1"],
@@ -94776,6 +94790,7 @@ ragingbolt: {
 },
 ironboulder: {
 	learnset: {
+		toxic: ["9M"],
 		stealthrock: ["9M"],
 		aerialace: ["9M"],
 		agility: ["9M", "9L21"],
