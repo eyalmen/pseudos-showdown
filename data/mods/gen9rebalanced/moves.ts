@@ -17799,7 +17799,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 100,
 		basePower: 90,
 		category: "Special",
-		isNonstandard: "Past",
+		//isNonstandard: "Past",
 		name: "Sparkling Aria",
 		pp: 10,
 		priority: 0,

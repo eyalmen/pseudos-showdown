@@ -9859,7 +9859,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Conkeldurr",
 		types: ["Fighting"],
 		genderRatio: {M: 0.75, F: 0.25},
-		baseStats: {hp: 105, atk: 140, def: 95, spa: 55, spd: 65, spe: 45},
+		baseStats: {hp: 115, atk: 140, def: 105, spa: 55, spd: 65, spe: 45},
 		abilities: {0: "Guts", 1: "Sheer Force", H: "Iron Fist"},
 		heightm: 1.4,
 		weightkg: 87,

@@ -19669,6 +19669,7 @@ magmortar: {
 		aurasphere: ["9M"],
 		dragonpulse: ["9M"],
 		terrainpulse: ["9M"],
+		eruption: ["9M"],
 		acidspray: ["9M"],
 		attract: ["8M", "7M", "6M", "5M", "4M"],
 		bodyslam: ["9M", "8M"],
@@ -43666,7 +43667,7 @@ milotic: {
 	learnset: {
 		moonblast: ["9M"],
 		healbell: ["9M"],
-		sparklingaria: ["9M"],
+		//sparklingaria: ["9M"],
 		dazzlinggleam: ["9M"],
 		calmmind: ["9M"],
 		alluringvoice: ["9M"],
@@ -44252,6 +44253,9 @@ duskull: {
 },
 dusclops: {
 	learnset: {
+		recover: ["9M"],
+		teleport: ["9M"],
+		knockoff: ["9M"],
 		allyswitch: ["8M", "7T"],
 		astonish: ["9L1", "8L1", "7L1", "6L1", "5L14", "4L14", "3L16"],
 		attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
@@ -46520,6 +46524,7 @@ registeel: {
 },
 latias: {
 	learnset: {
+		teleport: ["9M"],
 		flipturn: ["9M"],
 		aerialace: ["9M", "7M", "6M", "5M", "4M", "3M"],
 		agility: ["9M", "8M"],
@@ -46663,6 +46668,7 @@ latias: {
 },
 latios: {
 	learnset: {
+		teleport: ["9M"],
 		aerialace: ["9M", "7M", "6M", "5M", "4M", "3M"],
 		agility: ["9M", "8M"],
 		aircutter: ["9M"],
@@ -50053,6 +50059,7 @@ buizel: {
 },
 floatzel: {
 	learnset: {
+		knockoff: ["9M"],
 		agility: ["9M", "9L51", "7L51", "6L51", "5L29", "4L29"],
 		aquajet: ["9L24", "7L24", "6L24", "5L21", "4L21"],
 		aquatail: ["9L46", "7T", "7L46", "6T", "6L46", "5T", "5L62", "4T"],
@@ -52795,6 +52802,7 @@ finneon: {
 },
 lumineon: {
 	learnset: {
+		quiverdance: ["9M"],
 		moonblast: ["9M"],
 		healbell: ["9M"],
 		roost: ["9M", ],
@@ -53848,6 +53856,8 @@ heatran: {
 regigigas: {
 	learnset: {
 		headlongrush: ["9M"],
+		recover: ["9M"],
+		healbell: ["9M"],
 		closecombat: ["9M"],
 		stealthrock: ["9M"],
 		aerialace: ["7M", "6M", "5M", "4M"],
@@ -59005,6 +59015,7 @@ petilil: {
 lilligant: {
 	learnset: {
 		earthpower: ["9M", ],
+		focusblast: ["9M", ],
 		absorb: ["9L1", "8L1"],
 		afteryou: ["9L1", "8L1", "7T", "6T", "5T"],
 		alluringvoice: ["9M"],
@@ -64334,7 +64345,7 @@ lampent: {
 },
 chandelure: {
 	learnset: {
-		infernalparade: ["9M"],
+		//infernalparade: ["9M"],
 		allyswitch: ["8M", "7T"],
 		astonish: ["9L1", "8L1"],
 		attract: ["8M", "7M", "6M", "5M"],
@@ -65600,6 +65611,7 @@ golett: {
 },
 golurk: {
 	learnset: {
+		bulkup: ["9M"],
 		headlongrush: ["9M"],
 		machpunch: ["9M"],
 		shadowsneak: ["9M"],
@@ -77650,6 +77662,7 @@ dewpider: {
 araquanid: {
 	learnset: {
 		flipturn: ["9M"],
+		aquajet: ["9M"],
 		aquaring: ["9L16", "8L16", "7L26"],
 		attract: ["8M", "7M"],
 		bite: ["9L1", "8L1", "7L21"],
@@ -78630,6 +78643,7 @@ steenee: {
 },
 tsareena: {
 	learnset: {
+		closecombat: ["9M"],
 		acrobatics: ["9M", "8M", "7M"],
 		aromatherapy: ["8L46", "7L41"],
 		aromaticmist: ["9L40", "8L40", "7L33"],
