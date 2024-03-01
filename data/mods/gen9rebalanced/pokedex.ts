@@ -3590,7 +3590,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Typhlosion",
 		types: ["Fire", "Ground"],
 		genderRatio: {M: 0.875, F: 0.125},
-		baseStats: {hp: 78, atk: 78, def: 78, spa: 125, spd: 75, spe: 101},
+		baseStats: {hp: 78, atk: 78, def: 78, spa: 115, spd: 85, spe: 101},
 		abilities: {0: "Blaze", H: "Solar Power"},
 		heightm: 1.7,
 		weightkg: 79.5,
