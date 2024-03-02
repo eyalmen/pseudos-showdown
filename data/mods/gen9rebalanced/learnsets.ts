@@ -54429,7 +54429,7 @@ darkrai: {
 		thief: ["9M", "7M", "6M", "5M", "4M"],
 		throatchop: ["9M", "7T"],
 		thunder: ["9M", "7M", "6M", "5M", "4M"],
-		thunderbolt: ["7M", "6M", "5M", "4M"],
+		thunderbolt: ["9M", "7M", "6M", "5M", "4M"],
 		thunderwave: ["9M", "7M", "6M", "5M", "4M"],
 		torment: ["7M", "6M", "5M", "4M"],
 		toxic: ["9M", "7M", "6M", "5M", "4M"],
