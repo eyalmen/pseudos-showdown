@@ -12,7 +12,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Uber",
 	},
 	ironcrown: {
-		tier: "RU",
+		tier: "UU",
 		natDexTier: "OU",
 	},
 	walkingwake: {
@@ -378,7 +378,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "NFE",
 	},
 	clefable: {
-		tier: "UU",
+		tier: "OU",
 		natDexTier: "UU",
 	},
 	vulpix: {
@@ -5341,7 +5341,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	zamazenta: {
 //		isNonstandard: "Unobtainable",
-		tier: "UUBL",
+		tier: "OU",
 		natDexTier: "Uber",
 	},
 	zamazentacrowned: {
@@ -5966,12 +5966,12 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	terapagos: {
-		tier: "OU",
+		tier: "UUBL",
 		doublesTier: "DUber",
 		natDexTier: "OU",
 	},
 	terapagosterastal: {
-		tier: "OU",
+		tier: "UUBL",
 		doublesTier: "DUber",
 		natDexTier: "OU",
 	},

@@ -18953,7 +18953,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Iron Crown",
 		types: ["Steel", "Psychic"],
 		gender: "N",
-		baseStats: {hp: 90, atk: 72, def: 102, spa: 130, spd: 94, spe: 102},
+		baseStats: {hp: 90, atk: 62, def: 100, spa: 130, spd: 106, spe: 102},
 		abilities: {0: "Quark Drive", H: "Analytic"},
 		heightm: 1.6,
 		weightkg: 156,
