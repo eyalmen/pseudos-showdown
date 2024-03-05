@@ -27481,6 +27481,7 @@ aipom: {
 },
 ambipom: {
 	learnset: {
+		tidyup: ["9M"],
 		bulletseed: ["9M"],
 		rockblast: ["9M"],
 		closecombat: ["9M"],
