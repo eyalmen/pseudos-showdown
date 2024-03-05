@@ -54454,6 +54454,7 @@ darkrai: {
 },
 shaymin: {
 	learnset: {
+		hurricane: ["9M"],
 		aircutter: ["9M", "4T"],
 		airslash: ["9M", "9L64", "7L64", "6L64", "6S3", "5L64", "4L64"],
 		aromatherapy: ["7L64", "6L64", "6S4", "5L64", "4L64", "4S0"],
