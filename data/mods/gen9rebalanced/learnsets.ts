@@ -88131,7 +88131,7 @@ enamorus: {
 },
 enamorustherian: {
 	learnset: {
-		uturn: ["9M"],
+		//uturn: ["9M"],
 		defog: ["9M"],
 		knockoff: ["9M"],
 		toxic: ["9M"],
