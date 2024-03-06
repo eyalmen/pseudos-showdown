@@ -22210,6 +22210,7 @@ munchlax: {
 snorlax: {
 	learnset: {
 		slackoff: ["9M"],
+		darkestlariat: ["9M"],
 		afteryou: ["7T", "7E", "6T", "6E", "5T", "5E"],
 		amnesia: ["9M", "9L36", "8M", "8L36", "8V", "7L9", "7V", "6L9", "5L9", "5D", "4L9", "3L5"],
 		attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -22234,7 +22235,7 @@ snorlax: {
 		covet: ["9L1", "8L1", "7T", "6T", "5T", "3L42"],
 		crunch: ["9M", "9L24", "8M", "8L24", "8V", "7L49", "6L49", "5L49", "4L44"],
 		curse: ["9M", "8E", "7E", "7V", "6E", "5E", "4E", "3E", "3S0"],
-		darkestlariat: ["8M"],
+		//darkestlariat: ["8M"],
 		defensecurl: ["9L1", "8L1", "8V", "7L4", "7V", "6L4", "5L4", "4L4", "3T", "3L9"],
 		dig: ["9M"],
 		doubleedge: ["9M", "8E", "7E", "7V", "6E", "5E", "4E", "3T", "3E"],
