@@ -1,0 +1,2540 @@
+{
+	"makuhita": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Guts Wallbreaker",
+				"chance": 60,
+				"item": {
+					"chance": 100,
+					"name": "Flame Orb"
+				},
+				"ability": {
+					"chance": 100,
+					"name": "Guts"
+				},
+				"moves": [
+					{
+						"type": "move",
+						"name": "Knock Off",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Facade",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Fake Out"
+					},
+					{
+						"type": "move",
+						"name": "Drain Punch"
+					},
+					{
+						"type": "move",
+						"name": "Bullet Punch"
+					},
+					{
+						"type": "move",
+						"name": "Heavy Slam"
+					},
+					{
+						"type": "move",
+						"name": "Earthquake"
+					}
+				]
+			},
+			{
+				"name": "Bulky Setup",
+				"chance": 25,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Guts"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Bulk Up",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Drain Punch"
+					},
+					{
+						"type": "move",
+						"name": "Knock Off"
+					},
+					{
+						"type": "move",
+						"name": "Bullet Punch"
+					},
+					{
+						"type": "move",
+						"name": "Earthquake"
+					},
+					{
+						"type": "combo",
+						"name": [
+							{
+								"type": "move",
+								"name": "Rest",
+								"chance": 100
+							},
+							{
+								"type": "move",
+								"name": "Sleep Talk",
+								"chance": 100
+							}
+						],
+						"exclude": [
+							"Bullet Punch"
+						]
+					}
+				]
+			},
+			{
+				"name": "Sheer Force Wallbreaker",
+				"chance": 15,
+				"item": [
+					{
+						"chance": 60,
+						"name": "Eviolite"
+					},
+					{
+						"chance": 40,
+						"name": "Life Orb"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Sheer Force"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Bulk Up"
+					},
+					{
+						"type": "move",
+						"name": "Earthquake"
+					},
+					{
+						"type": "move",
+						"name": "Poison Jab"
+					},
+					{
+						"type": "move",
+						"name": "Ice Punch"
+					},
+					{
+						"type": "move",
+						"name": "Drain Punch"
+					},
+					{
+						"type": "move",
+						"name": "Close Combat"
+					}
+				]
+			}
+		]
+	},
+	"nymble": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Choice Band",
+				"chance": 75,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Choice Band"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Tinted Lens"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "U-Turn",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Leech Life",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "First Impression",
+						"chance": 100
+					},
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Facade",
+								"chance": 50
+							},
+							{
+								"type": "move",
+								"name": "Sucker Punch",
+								"chance": 50
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Life Orb",
+				"chance": 25,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Life Orb"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Tinted Lens"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "U-Turn",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "First Impression",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Leech Life",
+						"chance": 100
+					},
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Facade",
+								"chance": 50
+							},
+							{
+								"type": "move",
+								"name": "Sucker Punch",
+								"chance": 50
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"rolycoly": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Hazard Setter",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 65,
+						"name": "Steam Engine"
+					},
+					{
+						"chance": 35,
+						"name": "Flash Fire"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Rapid Spin",
+						"chance": 100
+					},
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Power Gem",
+								"chance": 33
+							},
+							{
+								"type": "move",
+								"name": "Rock Blast",
+								"chance": 34
+							},
+							{
+								"type": "move",
+								"name": "Stone Edge",
+								"chance": 33
+							}
+						]
+					},
+					{
+						"type": "move",
+						"name": "Stealth Rock"
+					},
+					{
+						"type": "move",
+						"name": "Spikes"
+					},
+					{
+						"type": "move",
+						"name": "Will-o-Wisp"
+					}
+				]
+			}
+		]
+	},
+	"wooper": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Physical Wall",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 70,
+						"name": "Unaware"
+					},
+					{
+						"chance": 30,
+						"name": "Water Absorb"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Recover",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Stealth Rock"
+					},
+					{
+						"type": "move",
+						"name": "Earthquake"
+					},
+					{
+						"type": "move",
+						"name": "Spikes"
+					},
+					{
+						"type": "move",
+						"name": "Scald"
+					},
+					{
+						"type": "move",
+						"name": "Ice Beam"
+					},
+					{
+						"type": "move",
+						"name": "Toxic"
+					},
+					{
+						"type": "move",
+						"name": "Yawn"
+					}
+				],
+				"moveLimitations": [
+					"Status >=2"
+				]
+			}
+		]
+	},
+	"zigzagoongalar": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Choice Scarf",
+				"chance": 50,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Choice Scarf"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Quick Feet"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Knock Off",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Parting Shot",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Facade",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Trick",
+						"chance": 100
+					}
+				]
+			},
+			{
+				"name": "Bulky Pivot",
+				"chance": 30,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Quick Feet"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Knock Off",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Parting Shot",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Facade"
+					},
+					{
+						"type": "move",
+						"name": "Taunt"
+					},
+					{
+						"type": "move",
+						"name": "Thunder Wave"
+					},
+					{
+						"type": "move",
+						"name": "Protect"
+					}
+				]
+			},
+			{
+				"name": "Quick Feet Sweeper",
+				"chance": 20,
+				"item": [
+					{
+						"chance": 80,
+						"name": "Flame Orb"
+					},
+					{
+						"chance": 20,
+						"name": "Toxic Orb"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Quick Feet"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Facade",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Parting Shot",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Trick"
+					},
+					{
+						"type": "move",
+						"name": "Thunder Wave"
+					},
+					{
+						"type": "move",
+						"name": "Knock Off"
+					},
+					{
+						"type": "move",
+						"name": "Gunk Shot"
+					}
+				]
+			}
+		]
+	},
+	"starly": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Reckless",
+				"chance": 100,
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Reckless"
+					}
+				],
+				"item": [
+					{
+						"chance": 100,
+						"name": "Choice Band"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Brave Bird",
+						"chance": 80
+					},
+					{
+						"type": "move",
+						"name": "Double Edge",
+						"chance": 80
+					},
+					{
+						"type": "move",
+						"name": "U-turn",
+						"chance": 80
+					},
+					{
+						"type": "move",
+						"name": "Quick Attack",
+						"chance": 70
+					},
+					{
+						"type": "move",
+						"name": "Steel Wing",
+						"chance": 60
+					},
+					{
+						"type": "move",
+						"name": "Pursuit",
+						"chance": 30
+					}
+				]
+			}
+		]
+	},
+	"togepi": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Wishpass Togepi",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Serene Grace"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Wish",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Protect",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Seismic Toss",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Toxic",
+						"chance": 20
+					},
+					{
+						"type": "move",
+						"name": "Yawn",
+						"chance": 20
+					},
+					{
+						"type": "move",
+						"name": "Heal Bell",
+						"chance": 20
+					},
+					{
+						"type": "move",
+						"name": "Soft Boiled",
+						"chance": 20
+					},
+					{
+						"type": "move",
+						"name": "Body Slam",
+						"chance": 20
+					}
+				]
+			}
+		]
+	},
+	"cleffa": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Wishpass Cleffa",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Natural Cure"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Wish",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Protect",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Seismic Toss",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Counter",
+						"chance": 60
+					},
+					{
+						"type": "move",
+						"name": "Toxic",
+						"chance": 40
+					}
+				]
+			}
+		]
+	},
+	"swinub": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Swinub",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Life Orb"
+					}
+				],
+				"ability": [
+					{
+						"chance": 50,
+						"name": "Oblivious"
+					},
+					{
+						"chance": 50,
+						"name": "Thick Fat"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Earthquake",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Ice Shard",
+						"chance": 90
+					},
+					{
+						"type": "move",
+						"name": "Freeze Dry",
+						"chance": 70
+					},
+					{
+						"type": "move",
+						"name": "Stealth Rock",
+						"chance": 70
+					},
+					{
+						"type": "move",
+						"name": "Avalanche",
+						"chance": 70
+					}
+				]
+			}
+		]
+	},
+	"wooperpaldea": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Wooper",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 40,
+						"name": "Water Absorb"
+					},
+					{
+						"chance": 60,
+						"name": "Unaware"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Recover",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Earthquake",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Toxic Spikes",
+						"chance": 70
+					},
+					{
+						"type": "move",
+						"name": "Stealth Rock",
+						"chance": 80
+					},
+					{
+						"type": "move",
+						"name": "Yawn",
+						"chance": 50
+					}
+				]
+			}
+		]
+	},
+	"Luvdisc": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Choice Specs",
+				"chance": 25,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Choice Specs"
+					}
+				],
+				"ability": [
+					{
+						"chance": 40,
+						"name": "Swift Swim"
+					},
+					{
+						"chance": 60,
+						"name": "Hydration"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Ice Beam",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Hydro Pump",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Scald",
+						"chance": 70
+					},
+					{
+						"type": "move",
+						"name": "Hidden Power [Grass]",
+						"chance": 90
+					}
+				]
+			},
+			{
+				"name": "Life Orb",
+				"chance": 25,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Life Orb"
+					}
+				],
+				"ability": [
+					{
+						"chance": 40,
+						"name": "Swift Swim"
+					},
+					{
+						"chance": 60,
+						"name": "Hydration"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Ice Beam",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Hydro Pump",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Liquidation",
+						"chance": 90
+					},
+					{
+						"type": "move",
+						"name": "Hidden Power [Grass]",
+						"chance": 60
+					},
+					{
+						"type": "move",
+						"name": "Surf",
+						"chance": 50
+					}
+				]
+			},
+			{
+				"name": "Hydration",
+				"chance": 25,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Leftovers"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Hydration"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Rain Dance",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Rest",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Scald",
+						"chance": 90
+					},
+					{
+						"type": "move",
+						"name": "Ice Beam",
+						"chance": 80
+					},
+					{
+						"type": "move",
+						"name": "Hydro Pump",
+						"chance": 30
+					}
+				]
+			},
+			{
+				"name": "Wish",
+				"chance": 25,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Leftovers"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Hydration"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Wish",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Protect",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Scald",
+						"chance": 90
+					},
+					{
+						"type": "move",
+						"name": "Ice Beam",
+						"chance": 80
+					},
+					{
+						"type": "move",
+						"name": "Hydro Pump",
+						"chance": 30
+					}
+				]
+			}
+		]
+	},
+	"metapod": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Iron Defense",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Shed Skin"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Iron Defense",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Bug Bite",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Electroweb",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "String Shot",
+						"chance": 100
+					}
+				]
+			}
+		]
+	},
+	"silcoon": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Iron Defense",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Shed Skin"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Iron Defense",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Bug Bite",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Electroweb",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "String Shot"
+					},
+					{
+						"type": "move",
+						"name": "Poison Sting"
+					}
+				]
+			}
+		]
+	},
+	"cascoon": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Iron Defense",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Shed Skin"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Iron Defense",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Bug Bite",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Electroweb",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "String Shot"
+					},
+					{
+						"type": "move",
+						"name": "Poison Sting"
+					}
+				]
+			}
+		]
+	},
+	"kakuna": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Iron Defense",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Shed Skin"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Iron Defense",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Bug Bite",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Electroweb",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "String Shot"
+					},
+					{
+						"type": "move",
+						"name": "Poison Sting"
+					}
+				]
+			}
+		]
+	},
+	"spewpa": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Iron Defense",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Shed Skin"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Tera Blast",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Stun Spore",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Electroweb",
+						"chance": 100
+					},
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Pounce"
+							},
+							{
+								"type": "move",
+								"name": "Bug Bite"
+							},
+							{
+								"type": "move",
+								"name": "Struggle Bug"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"burmy": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Iron Defense",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Shed Skin"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Bug Bite",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Electroweb",
+						"chance": 100
+					},
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Hidden Power Ice"
+							},
+							{
+								"type": "move",
+								"name": "Hidden Power Grass"
+							},
+							{
+								"type": "move",
+								"name": "Hidden Power Psychic"
+							}
+						]
+					},
+					{
+						"type": "move",
+						"name": "Protect"
+					},
+					{
+						"type": "move",
+						"name": "String Shot"
+					}
+				]
+			}
+		]
+	},
+	"magikarp": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Iron Defense",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 50,
+						"name": "Eviolite"
+					},
+					{
+						"chance": 50,
+						"name": "Choice Specs"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Swift Swim"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Tackle",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Bounce",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Hydro Pump",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Flail",
+						"chance": 100
+					}
+				]
+			}
+		]
+	},
+	"kricketot": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Iron Defense",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Shed Skin"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Endeavor"
+					},
+					{
+						"type": "move",
+						"name": "Tera Blast",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Mud-Slap"
+					},
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Bug Bite"
+							},
+							{
+								"type": "move",
+								"name": "Struggle Bug"
+							}
+						],
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "String Shot"
+					}
+				]
+			}
+		]
+	},
+	"cosmog": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Iron Defense",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Unaware"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Teleport",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Splash",
+						"chance": 100
+					}
+				]
+			}
+		]
+	},
+	"slakoth": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Iron Defense",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 50,
+						"name": "Eviolite"
+					},
+					{
+						"chance": 50,
+						"name": "Choice Band"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Truant"
+					}
+				],
+				"moves": [
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Double-Edge"
+							},
+							{
+								"type": "move",
+								"name": "Return"
+							},
+							{
+								"type": "move",
+								"name": "Body Slam"
+							}
+						],
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Zen Headbutt"
+					},
+					{
+						"type": "move",
+						"name": "Gunk Shot",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Seed Bomb"
+					},
+					{
+						"type": "move",
+						"name": "Hammer Arm"
+					},
+					{
+						"type": "move",
+						"name": "Thunder Punch"
+					},
+					{
+						"type": "move",
+						"name": "Sucker Punch"
+					}
+				]
+			}
+		]
+	},
+	"tynamo": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Tynamo",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Levitate"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Tera Blast",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Thunder Wave"
+					},
+					{
+						"type": "move",
+						"name": "Charge Beam",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Spark"
+					},
+					{
+						"type": "move",
+						"name": "Magnet Rise"
+					}
+				]
+			}
+		]
+	},
+	"feebas": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Feebas",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Adaptability"
+					}
+				],
+				"moves": [
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Scald"
+							},
+							{
+								"type": "move",
+								"name": "Surf"
+							}
+						],
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Ice Beam",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Toxic"
+					},
+					{
+						"type": "move",
+						"name": "Haze"
+					},
+					{
+						"type": "move",
+						"name": "Hypnosis"
+					}
+				]
+			}
+		]
+	},
+	"sunkern": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Sunkern",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 50,
+						"name": "Solar Power"
+					},
+					{
+						"chance": 50,
+						"name": "Cholorphyll"
+					}
+				],
+				"moves": [
+					{
+						"type": "combo",
+						"name": [
+							{
+								"type": "move",
+								"name": "Sunny Day"
+							},
+							{
+								"type": "move",
+								"name": "Growth"
+							}
+						]
+					},
+					{
+						"type": "move",
+						"name": "Sludge Bomb",
+						"chance": 100
+					},
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Giga Drain"
+							},
+							{
+								"type": "move",
+								"name": "Leaf Storm"
+							}
+						],
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Earth Power"
+					}
+				]
+			}
+		]
+	},
+	"applin": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Applin",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Bulletproof"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Draco Meteor",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Tera Blast"
+					},
+					{
+						"type": "move",
+						"name": "Sucker Punch"
+					},
+					{
+						"type": "move",
+						"name": "Grassy Glide"
+					},
+					{
+						"type": "move",
+						"name": "Pounce"
+					},
+					{
+						"type": "move",
+						"name": "Attract"
+					}
+				]
+			}
+		]
+	},
+	"combee": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Banded Hustle Physical Attacker",
+				"chance": 50,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Choice Band"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Hustle"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Bug Bite",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Dual Wingbeat",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Endeavor",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Tera Blast"
+					},
+					{
+						"type": "move",
+						"name": "Tailwind"
+					}
+				]
+			},
+			{
+				"name": "Wide Lens Hustle Physical Attacker",
+				"chance": 50,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Wide Lens"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Hustle"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Bug Bite",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Dual Wingbeat",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Endeavor",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Tera Blast"
+					},
+					{
+						"type": "move",
+						"name": "Tailwind"
+					},
+					{
+						"type": "move",
+						"name": "Sweet Scent"
+					}
+				]
+			},
+			{
+				"name": "Choice Specs Combee",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Choice Specs"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Honey Gather"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Tera Blast",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Bug Buzz",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Air Cutter",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Tailwind"
+					},
+					{
+						"type": "move",
+						"name": "Ominous Wind"
+					},
+					{
+						"type": "move",
+						"name": "Mud-Slap"
+					}
+				]
+			}
+		]
+	},
+	"snom": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Snom",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Ice Scales"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Icy Wind",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Bug Buzz",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Sleep Talk",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Rest",
+						"chance": 100
+					}
+				]
+			}
+		]
+	},
+	"blipbug": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Blipbug",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Compound Eyes"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Supersonic",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Sticky Web",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Recover",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Infestation",
+						"chance": 100
+					}
+				]
+			}
+		]
+	},
+	"rookidee": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Rookidee",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"name": "Keen Eye"
+					},
+					{
+						"name": "Unnerve"
+					},
+					{
+						"name": "Big Pecks"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Brave Bird",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Taunt",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "U-Turn",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Defog",
+						"chance": 100
+					}
+				]
+			}
+		]
+	},
+	"wiglett": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Rain Setter Suicide Lead",
+				"chance": 50,
+				"item": [
+					{
+						"chance": 50,
+						"name": "Focus Sash"
+					},
+					{
+						"chance": 50,
+						"name": "Damp Rock"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Gooey"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Liquidation",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Memento",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Rain Dance",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Aqua Jet",
+						"chance": 100
+					}
+				]
+			},
+			{
+				"name": "Fast Physical Attacker",
+				"chance": 100,
+				"item": [
+					{
+						"name": "Choice Band"
+					},
+					{
+						"name": "Life Orb"
+					},
+					{
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Gooey"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Liquidation",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Memento"
+					},
+					{
+						"type": "move",
+						"name": "Sucker Punch"
+					},
+					{
+						"type": "move",
+						"name": "Aqua Jet"
+					},
+					{
+						"type": "move",
+						"name": "Stomping Tantrum"
+					},
+					{
+						"type": "move",
+						"name": "Throat Chop"
+					}
+				]
+			}
+		]
+	},
+	"poochyena": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Quick Feet Toxic Orb",
+				"chance": 50,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Toxic Orb"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Quick Feet"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Sucker Punch",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Facade",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Protect"
+					},
+					{
+						"type": "move",
+						"name": "Crunch"
+					},
+					{
+						"type": "move",
+						"name": "Poison Fang"
+					},
+					{
+						"type": "move",
+						"name": "Ice Fang"
+					},
+					{
+						"type": "move",
+						"name": "Thunder Fang"
+					},
+					{
+						"type": "move",
+						"name": "Play Rough"
+					}
+				]
+			},
+			{
+				"name": "Fast Physical Attacker",
+				"chance": 100,
+				"item": [
+					{
+						"name": "Choice Band"
+					},
+					{
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Quick Feet"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Sucker Punch",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Crunch",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Poison Fang",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Ice Fang"
+					},
+					{
+						"type": "move",
+						"name": "Thunder Fang"
+					},
+					{
+						"type": "move",
+						"name": "Play Rough"
+					}
+				]
+			}
+		]
+	},
+	"igglybuff": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Competitive / Cute Charm",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"name": "Competitive"
+					},
+					{
+						"name": "Cute Charm"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Wish",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Protect",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Seismic Toss",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Counter"
+					},
+					{
+						"type": "move",
+						"name": "Heal Bell"
+					},
+					{
+						"type": "move",
+						"name": "Encore"
+					}
+				]
+			}
+		]
+	},
+	"seedot": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Defensive",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Early Bird"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Defog",
+						"chance": 100
+					},
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Seed Bomb"
+							},
+							{
+								"type": "move",
+								"name": "Giga Drain"
+							}
+						]
+					},
+					{
+						"type": "move",
+						"name": "Leech Seed",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Protect",
+						"chance": 100
+					}
+				]
+			},
+			{
+				"name": "Offensive",
+				"chance": 100,
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"name": "Cholorphyll"
+					},
+					{
+						"name": "Early Bird"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Seed Bomb",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Explosion"
+					},
+					{
+						"type": "move",
+						"name": "Sucker Punch"
+					},
+					{
+						"type": "move",
+						"name": "Sunny Day"
+					},
+					{
+						"type": "move",
+						"name": "Growth"
+					},
+					{
+						"type": "move",
+						"name": "Swords Dance"
+					}
+				],
+				"moveRestrictions": [
+					{
+						"move": "Sunny Day",
+						"ability": "Cholorphyll"
+					},
+					{
+						"move": "Growth",
+						"ability": "Cholorphyll"
+					},
+					{
+						"move": "Swords Dance",
+						"ability": "Early Bird"
+					}
+				]
+			}
+		]
+	},
+	"pichu": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Screens Setter",
+				"item": [
+					{
+						"chance": 100,
+						"name": "Light Clay"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Static"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Light Screen",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Reflect",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Volt Switch",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Nuzzle",
+						"chance": 100
+					}
+				]
+			},
+			{
+				"name": "Rain Setter",
+				"item": [
+					{
+						"chance": 100,
+						"name": "Damp Rock"
+					}
+				],
+				"ability": [
+					{
+						"name": "Static"
+					},
+					{
+						"name": "Lightning Rod"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Rain Dance",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Volt Switch",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Thunder",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Surf"
+					},
+					{
+						"type": "move",
+						"name": "Nuzzle"
+					},
+					{
+						"type": "move",
+						"name": "Toxic"
+					}
+				]
+			},
+			{
+				"name": "Pivot",
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Static"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Volt Switch",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Nuzzle",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Fake Out"
+					},
+					{
+						"type": "move",
+						"name": "Encore"
+					},
+					{
+						"type": "combo",
+						"name": [
+							{
+								"type": "move",
+								"name": "Wish"
+							},
+							{
+								"type": "move",
+								"name": "Protect"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"whismur": {
+		"level": 100,
+		"sets": [
+			{
+				"name": "Special Attacker",
+				"item": [
+					{
+						"name": "Choice Specs"
+					},
+					{
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Rattled"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Hyper Voice",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Ice Beam",
+						"chance": 100
+					},
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Flamethrower"
+							},
+							{
+								"type": "move",
+								"name": "Fire Blast"
+							}
+						]
+					},
+					{
+						"type": "move",
+						"name": "Shadow Ball",
+						"chance": 100
+					}
+				]
+			},
+			{
+				"name": "Mixed Attacker",
+				"item": [
+					{
+						"chance": 100,
+						"name": "Eviolite"
+					}
+				],
+				"ability": [
+					{
+						"chance": 100,
+						"name": "Rattled"
+					}
+				],
+				"moves": [
+					{
+						"type": "move",
+						"name": "Hyper Voice",
+						"chance": 100
+					},
+					{
+						"type": "move",
+						"name": "Ice Beam",
+						"chance": 100
+					},
+					{
+						"type": "choice",
+						"name": [
+							{
+								"type": "move",
+								"name": "Flamethrower"
+							},
+							{
+								"type": "move",
+								"name": "Fire Blast"
+							}
+						]
+					},
+					{
+						"type": "move",
+						"name": "Shadow Ball"
+					},
+					{
+						"type": "move",
+						"name": "Hammer Arm"
+					}
+				]
+			}
+		]
+	}
+}
